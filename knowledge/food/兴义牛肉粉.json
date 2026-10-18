@@ -1,0 +1,35 @@
+{
+  "id": "food-niuroufen",
+  "name": "兴义牛肉粉",
+  "aliases": [],
+  "category": "主食",
+  "description": "据万峰林景区官网美食页，兴义有“金州三碗粉”之说，因羊肉粉、牛肉粉、凉剪粉而得名；其中牛肉粉以清真为特色。羊肉粉则“熟透而不烂、米粉雪白、汤汁鲜淳、辣香味浓、口感油而不腻”。",
+  "location": {
+    "address": "兴义市（多家店铺分布，具体店址待核实）",
+    "district": "兴义市"
+  },
+  "shops": [],
+  "suitable_for": [
+    "大众"
+  ],
+  "time_info": {},
+  "notes": [
+    "以清真做法为特色。"
+  ],
+  "tags": [
+    "牛肉粉",
+    "兴义",
+    "清真",
+    "三碗粉"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-OFFICIAL-0012"
+  ],
+  "source_types": [
+    "景区资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "信息来自万峰林景区官网美食页（景区官方渠道）。未采集到带日期的可靠价格来源。"
+}

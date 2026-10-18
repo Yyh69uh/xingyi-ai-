@@ -1,0 +1,23 @@
+{
+  "id": "review-wanfenghu-01",
+  "target_id": "attraction-wanfenghu",
+  "target_type": "attraction",
+  "reviewer_type": "游客公开评价",
+  "reviewer": "待核实",
+  "rating": "3.6/5（该页面综合评分，14条评价）",
+  "content": "（摘录）万峰湖景区挺大的，群山环绕，青山秀水，很适合散心旅行。从远处看，山峰都是比较原始的，基本上都是自然风光，没有被人工破坏，空气非常的清新",
+  "collected_platform": "TripAdvisor（猫途鹰）",
+  "tags": [
+    "万峰湖",
+    "自然风光"
+  ],
+  "source_ids": [
+    "SRC-WEB-0042"
+  ],
+  "source_types": [
+    "游客公开评价"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "内容为检索结果中该点评页的公开摘要片段（摘录）。点评者昵称未记录，标记为待核实。"
+}

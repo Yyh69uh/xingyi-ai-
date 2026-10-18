@@ -1,0 +1,49 @@
+{
+  "id": "attraction-nidangshilin",
+  "name": "泥凼石林",
+  "aliases": [
+    "泥凼石林风景区"
+  ],
+  "category": "自然景观",
+  "description": "为“金州十八景”之一，位于兴义市东南部（城南），长达20公里，总面积约3万余亩，处于万峰湖畔，与万峰林、万峰湖共同组成画面又自成一景区。石林区较集中的有风坡弯、戴家坝等处，由前后两部分组成。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市泥凼镇风波湾至陇戛一带（距兴义市约42公里）",
+    "district": "兴义市",
+    "transport_hint": "待核实"
+  },
+  "suitable_for": [
+    "摄影",
+    "徒步"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "未找到可追溯的票价来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [],
+  "tags": [
+    "泥凼石林",
+    "石林",
+    "金州十八景",
+    "兴义"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0006",
+    "SRC-WEB-0033"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "开放时间与票价未找到可靠来源。"
+}

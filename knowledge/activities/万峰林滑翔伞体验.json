@@ -1,0 +1,47 @@
+{
+  "id": "activity-wanfenglin-paragliding",
+  "name": "万峰林滑翔伞体验",
+  "category": "体验项目",
+  "description": "据央广网报道，万峰林设有滑翔伞基地，游客可在教练员带领下从空中俯瞰峰林景观，该项目是兴义户外游持续走热的代表项目之一。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市万峰林（滑翔伞基地）",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "户外运动",
+    "摄影"
+  ],
+  "time_info": {
+    "start": "待核实",
+    "end": "待核实",
+    "recurrence": "待核实",
+    "opening_hours": "待核实",
+    "suggested_duration": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "未采集到带日期的可靠价格来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "属高风险户外运动，需由具备资质的运营方与教练带队。"
+  ],
+  "tags": [
+    "滑翔伞",
+    "户外运动",
+    "万峰林",
+    "体验"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-NEWS-0010"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "仅央广网单一来源，价格、运营方与开放时间未采集到，标记为待核实。"
+}

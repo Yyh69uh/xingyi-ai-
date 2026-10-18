@@ -1,0 +1,50 @@
+{
+  "id": "transport-xingyi-south-station",
+  "name": "兴义南站",
+  "category": "高铁",
+  "description": "兴义南站位于贵州省黔西南布依族苗族自治州兴义市万峰林机场旁，于2025年11月28日开通运营，是盘兴高速铁路上的一座车站，由中国铁路成都局集团贵阳车务段管辖。据国新办发布会文字实录，盘兴高铁与沪昆高铁相连，兴义南站与兴义万峰林机场形成衔接。",
+  "from": "兴义",
+  "to": "盘州（经盘兴高铁接沪昆高铁）",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市（万峰林机场旁）",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "大众",
+    "商务"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "车票为动态价格，未采集到带日期的可靠来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "开通时间为2025年11月28日（据维基百科与国新办发布会信息）。"
+  ],
+  "tags": [
+    "高铁",
+    "兴义南站",
+    "盘兴高铁",
+    "交通"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0027",
+    "SRC-GOV-0002"
+  ],
+  "source_types": [
+    "网络公开资料",
+    "政府公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "开通日期与线路信息有维基百科与国新办发布会文字实录两来源印证。"
+}

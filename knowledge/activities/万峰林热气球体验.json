@@ -1,0 +1,48 @@
+{
+  "id": "activity-wanfenglin-balloon",
+  "name": "万峰林热气球表演暨飞行体验",
+  "category": "体验项目",
+  "description": "据兴义市融媒体中心报道，2019年10月31日，2019国际山地旅游暨户外运动大会·中国热气球表演暨飞行体验活动在万峰林景区举行，10具热气球升空，为体验者带来全新的观景感受。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市万峰林景区",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "摄影",
+    "户外运动"
+  ],
+  "time_info": {
+    "start": "2019-10-31",
+    "end": "待核实",
+    "recurrence": "待核实（未见后续年份的官方举办信息）",
+    "opening_hours": "待核实",
+    "suggested_duration": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "未找到可追溯的带日期价格来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "该活动记载于2019年，是否常态化举办需向景区核实。",
+    "热气球体验受气象条件限制。"
+  ],
+  "tags": [
+    "热气球",
+    "万峰林",
+    "山地旅游大会",
+    "体验"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0062"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "仅2019年单一活动报道来源，未取得常态化举办与票务信息，标记为待核实。"
+}

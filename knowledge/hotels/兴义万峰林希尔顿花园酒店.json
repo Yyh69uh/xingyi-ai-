@@ -1,0 +1,44 @@
+{
+  "id": "hotel-hilton-garden",
+  "name": "兴义万峰林希尔顿花园酒店",
+  "category": "星级酒店",
+  "description": "希尔顿集团旗下酒店。据Booking页面，酒店配有健身中心、共用休息室及免费WiFi，设有一间供应中式美食的餐厅，提供免费私人停车位；客房均配备休息区。据希尔顿官网，酒店提供店内餐饮与免费无线网络。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市下五屯街道金峰路峰域湾21号楼",
+    "district": "兴义市",
+    "transport_hint": "待核实"
+  },
+  "suitable_for": [
+    "商务",
+    "家庭"
+  ],
+  "facilities": [
+    "健身中心",
+    "餐厅",
+    "免费WiFi",
+    "免费停车"
+  ],
+  "time_info": {
+    "opening_hours": "待核实"
+  },
+  "notes": [],
+  "tags": [
+    "希尔顿花园",
+    "万峰林",
+    "星级酒店",
+    "兴义"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0103",
+    "SRC-WEB-0104",
+    "SRC-WEB-0105"
+  ],
+  "source_types": [
+    "官方资料",
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "地址有携程来源，设施有希尔顿官网与Booking两来源印证。房价属动态信息，未采集到带日期的可靠来源，未录入价格字段。"
+}

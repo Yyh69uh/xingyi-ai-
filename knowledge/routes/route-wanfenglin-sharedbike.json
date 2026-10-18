@@ -1,0 +1,75 @@
+{
+  "id": "route-wanfenglin-sharedbike",
+  "name": "万峰林共享车骑行线路（阳光谷—西南广场—乡愁集市—半月弯）",
+  "category": "骑行路线",
+  "description": "据万峰林景区官网“游玩方式”页，景区提供共享车骑行，骑行线路为：阳光谷旅游度假区→万峰林西南广场→乡愁集市→半月弯森林营地；共享车开放时间为8:00—21:30，收费按车型不同。",
+  "duration_days": "1",
+  "stops": [
+    {
+      "order": 1,
+      "name": "阳光谷旅游度假区",
+      "related_id": "待核实",
+      "time_info": "待核实",
+      "note": "据景区官网游玩方式页。"
+    },
+    {
+      "order": 2,
+      "name": "万峰林西南广场",
+      "related_id": "待核实",
+      "time_info": "待核实",
+      "note": "据景区官网游玩方式页。"
+    },
+    {
+      "order": 3,
+      "name": "乡愁集市",
+      "related_id": "待核实",
+      "time_info": "待核实",
+      "note": "据景区官网游玩方式页。"
+    },
+    {
+      "order": 4,
+      "name": "半月弯森林营地",
+      "related_id": "待核实",
+      "time_info": "待核实",
+      "note": "据景区官网游玩方式页。"
+    }
+  ],
+  "location": {
+    "address": "待核实",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "亲子",
+    "骑行"
+  ],
+  "time_info": {
+    "opening_hours": "共享车开放时间8:00—21:30（据景区官网）",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实（官网称按车型收费不同，未给出具体金额）",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "官网未给出具体价格，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [],
+  "tags": [
+    "共享车",
+    "骑行",
+    "万峰林",
+    "乡愁集市"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-OFFICIAL-0006"
+  ],
+  "source_types": [
+    "景区资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "骑行线路与开放时间来自景区官网；共享车具体收费标准未给出，标记为待核实。"
+}

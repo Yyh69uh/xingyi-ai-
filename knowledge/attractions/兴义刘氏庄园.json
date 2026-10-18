@@ -1,0 +1,55 @@
+{
+  "id": "attraction-liushi-zhuangyuan",
+  "name": "兴义刘氏庄园",
+  "aliases": [
+    "永康堡"
+  ],
+  "category": "人文古迹",
+  "description": "位于贵州省兴义市城南的下五屯街道，又称“永康堡”，始建于清嘉庆年间，由中西合璧的大小13座四合院组成，是民国初期在贵州政坛显赫一时的督军、省长刘显世和游击队军司令、滇黔边务督办刘显潜的故居。2013年3月5日，被中华人民共和国国务院公布为第七批全国重点文物保护单位。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市下五屯街道（刘氏庄园）",
+    "district": "兴义市",
+    "transport_hint": "待核实"
+  },
+  "suitable_for": [
+    "研学",
+    "摄影",
+    "建筑"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "未找到可追溯的票价来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "为中国现存占地面积最大的屯堡式建筑群（据中国日报报道）。"
+  ],
+  "tags": [
+    "刘氏庄园",
+    "永康堡",
+    "全国重点文物保护单位",
+    "屯堡",
+    "兴义"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0010",
+    "SRC-NEWS-0008",
+    "SRC-OFFICIAL-0007"
+  ],
+  "source_types": [
+    "网络公开资料",
+    "景区资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "开放时间与票价未找到可靠来源；文物保护单位信息有百度百科与中国日报两个来源，相互一致。"
+}

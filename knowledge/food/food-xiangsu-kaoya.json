@@ -1,0 +1,36 @@
+{
+  "id": "food-xiangsu-kaoya",
+  "name": "兴义香酥烤鸭",
+  "aliases": [
+    "兴义烤鸭"
+  ],
+  "category": "小吃",
+  "description": "源于贵州兴义地区的传统小吃，历史可追溯至清朝光绪年间。虽名为烤鸭，实为炸制：鸭子经调味品腌渍，再上笼蒸至熟烂，最后经油炸而成，色泽红亮、口感皮脆肉酥，常以葱白、甜面酱等佐食。据百度百科，上世纪80年代该小吃由兴义人引入贵阳。",
+  "location": {
+    "address": "兴义市（具体店址待核实）",
+    "district": "兴义市"
+  },
+  "shops": [],
+  "suitable_for": [
+    "大众"
+  ],
+  "time_info": {},
+  "notes": [],
+  "tags": [
+    "香酥鸭",
+    "烤鸭",
+    "兴义",
+    "光绪"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0016",
+    "SRC-WEB-0061"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "百度百科与贵州旅游资讯网信息一致。未采集到带日期的可靠价格来源。"
+}

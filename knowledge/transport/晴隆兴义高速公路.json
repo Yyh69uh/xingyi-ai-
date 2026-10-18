@@ -1,0 +1,47 @@
+{
+  "id": "transport-qingxing-expressway",
+  "name": "晴隆—兴义高速公路",
+  "category": "自驾",
+  "description": "据百度百科，晴隆—兴义高速公路起于普安县与晴隆县交界的新寨河特大桥西岸，接沪昆高速公路，经晴隆、普安、兴仁、兴义四县（市），途经地久、雨樟、万屯等地，止于兴义市红岩洞，与汕昆高速公路相接。",
+  "from": "晴隆（新寨河特大桥西岸）",
+  "to": "兴义（红岩洞，接汕昆高速）",
+  "location": {
+    "address": "贵州省（晴隆—兴义）",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "自驾"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "未找到可追溯的带日期价格来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "路况与收费以高速公路管理部门公布为准。"
+  ],
+  "tags": [
+    "高速公路",
+    "晴兴高速",
+    "自驾",
+    "兴义"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0102"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "路线走向来自百度百科单一条目，属客观线路描述。通行费与里程未取得，未录入。"
+}

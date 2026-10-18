@@ -1,0 +1,50 @@
+{
+  "id": "transport-acx-airport",
+  "name": "兴义万峰林机场",
+  "category": "机场",
+  "description": "兴义万峰林机场（IATA代码：ACX）位于贵州省黔西南布依族苗族自治州兴义市。据维基百科，其首航航线为中国东方航空公司昆明—兴义—贵阳航线；2018年8月18日T2航站楼正式投入运营，全部航班转场至T2运行。据百度百科，2024年夏航季该机场计划执行航线21条，通达25个城市。",
+  "from": "兴义",
+  "to": "各通航城市",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "商务",
+    "旅游"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "机票为动态价格，未采集到带日期的可靠来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "航线与航点会随航季调整，出行前请以航空公司/机场官方信息为准。"
+  ],
+  "tags": [
+    "机场",
+    "万峰林机场",
+    "ACX",
+    "兴义",
+    "交通"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0020",
+    "SRC-WEB-0025"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "航线数量（21条/25城）为2024年夏航季数据，时效性强，标记为待核实。"
+}

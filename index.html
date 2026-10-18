@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>兴义文旅 AI 导游</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: "Microsoft YaHei", "PingFang SC", sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        .container {
+            background: #fff;
+            border-radius: 16px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            width: 100%;
+            max-width: 600px;
+            overflow: hidden;
+        }
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #fff;
+            padding: 24px;
+            text-align: center;
+        }
+        .header h1 { font-size: 22px; margin-bottom: 6px; }
+        .header p { font-size: 13px; opacity: 0.9; }
+        /* 顶部导航栏合规标识（前端硬编码渲染） */
+        .header .ai-notice {
+            margin-top: 10px;
+            font-size: 11px;
+            color: rgba(255, 255, 255, 0.75);
+        }
+        .chat-box {
+            height: 360px;
+            overflow-y: auto;
+            padding: 20px;
+            background: #f7f8fc;
+        }
+        .message {
+            margin-bottom: 14px;
+            display: flex;
+            flex-direction: column;
+        }
+        .message.bot { align-items: flex-start; }
+        .message.user { align-items: flex-end; }
+        .bubble {
+            max-width: 80%;
+            padding: 12px 16px;
+            border-radius: 14px;
+            font-size: 14px;
+            line-height: 1.6;
+            word-break: break-word;
+            white-space: pre-wrap;
+        }
+        .message.bot .bubble {
+            background: #fff;
+            color: #333;
+            border-bottom-left-radius: 4px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+        }
+        .message.user .bubble {
+            background: #667eea;
+            color: #fff;
+            border-bottom-right-radius: 4px;
+        }
+        /* 来源信息灰色小字卡片 */
+        .source-card {
+            max-width: 80%;
+            margin-top: 6px;
+            padding: 6px 10px;
+            background: #ececf1;
+            border-radius: 8px;
+            font-size: 11px;
+            color: #9ca3af;
+            line-height: 1.6;
+        }
+        /* 每条 AI 回复底部的合规标识（前端硬编码渲染） */
+        .ai-tag {
+            margin-top: 4px;
+            font-size: 11px;
+            color: #9ca3af;
+        }
+        .input-area {
+            display: flex;
+            border-top: 1px solid #e5e7eb;
+            padding: 16px;
+            background: #fff;
+            gap: 10px;
+        }
+        #userInput {
+            flex: 1;
+            padding: 12px 16px;
+            border: 1px solid #d1d5db;
+            border-radius: 24px;
+            font-size: 14px;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+        #userInput:focus { border-color: #667eea; }
+        #sendBtn {
+            padding: 12px 24px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #fff;
+            border: none;
+            border-radius: 24px;
+            font-size: 14px;
+            cursor: pointer;
+            transition: opacity 0.2s;
+        }
+        #sendBtn:hover { opacity: 0.88; }
+        #sendBtn:disabled { opacity: 0.5; cursor: not-allowed; }
+        .status {
+            text-align: center;
+            padding: 8px;
+            font-size: 12px;
+            color: #9ca3af;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>兴义文旅 AI 导游</h1>
+            <p>探索万峰林 · 马岭河峡谷 · 万峰湖</p>
+            <!-- 比赛合规红线：顶部导航栏 AI 生成标识，前端硬编码渲染 -->
+            <div class="ai-notice">本回答由人工智能生成，仅供参考。</div>
+        </div>
+        <div class="chat-box" id="chatBox">
+            <div class="message bot">
+                <div class="bubble" id="welcomeMsg">正在连接后端服务...</div>
+                <div class="ai-tag">本回答由人工智能生成，仅供参考。</div>
+            </div>
+        </div>
+        <div class="status" id="status">状态：初始化中</div>
+        <div class="input-area">
+            <input type="text" id="userInput" placeholder="请输入您的问题..." />
+            <button id="sendBtn">发送</button>
+        </div>
+    </div>
+
+    <script>
+        const chatBox = document.getElementById('chatBox');
+        const userInput = document.getElementById('userInput');
+        const sendBtn = document.getElementById('sendBtn');
+        const statusEl = document.getElementById('status');
+        const welcomeMsg = document.getElementById('welcomeMsg');
+
+        // 多轮对话历史（user/assistant 交替），发送请求时一并带给后端
+        const history = [];
+
+        // 页面加载后请求后端健康检查接口
+        async function checkHealth() {
+            try {
+                const response = await fetch('/api/health');
+                const data = await response.json();
+                welcomeMsg.textContent = '欢迎来到兴义文旅 AI 导游';
+                statusEl.textContent = '状态：已连接后端服务';
+            } catch (err) {
+                welcomeMsg.textContent = '欢迎来到兴义文旅 AI 导游（后端未连接）';
+                statusEl.textContent = '状态：连接失败 - ' + err.message;
+            }
+        }
+
+        /**
+         * 向聊天区追加一条消息。
+         * @param {string} text     消息文本
+         * @param {boolean} isUser  是否为用户消息
+         * @param {Array}  sources  AI 回复的来源数组 [{name, source, update_time}]
+         */
+        function appendMessage(text, isUser, sources) {
+            const msgDiv = document.createElement('div');
+            msgDiv.className = 'message ' + (isUser ? 'user' : 'bot');
+
+            const bubble = document.createElement('div');
+            bubble.className = 'bubble';
+            bubble.textContent = text;
+            msgDiv.appendChild(bubble);
+
+            if (!isUser) {
+                // 来源信息：AI 回复文本下方渲染灰色小字卡片
+                if (Array.isArray(sources) && sources.length > 0) {
+                    const card = document.createElement('div');
+                    card.className = 'source-card';
+                    card.textContent = sources
+                        .map(s => '📖 来源：' + s.source + (s.update_time ? '（核实于' + s.update_time + '）' : ''))
+                        .join('\n');
+                    msgDiv.appendChild(card);
+                }
+                // 比赛合规红线：每条 AI 回复底部硬编码 AI 生成标识（绝不由大模型输出）
+                const tag = document.createElement('div');
+                tag.className = 'ai-tag';
+                tag.textContent = '本回答由人工智能生成，仅供参考。';
+                msgDiv.appendChild(tag);
+            }
+
+            chatBox.appendChild(msgDiv);
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }
+
+        async function sendMessage() {
+            const text = userInput.value.trim();
+            if (!text) return;
+            appendMessage(text, true);
+            userInput.value = '';
+            sendBtn.disabled = true;
+
+            try {
+                // 调用后端 AI 导游问答接口，携带历史对话
+                const response = await fetch('/api/chat', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ question: text, history: history }),
+                });
+
+                // HTTP 层异常（4xx/5xx）：一律优雅降级，严禁把错误码展示给用户
+                if (!response.ok) {
+                    appendMessage('系统开小差了，请再说一遍。', false);
+                    return;
+                }
+
+                // JSON 解析兜底：响应体损坏时同样优雅降级
+                let data;
+                try {
+                    data = await response.json();
+                } catch (parseErr) {
+                    appendMessage('系统开小差了，请再说一遍。', false);
+                    return;
+                }
+
+                const reply = (data && typeof data.reply === 'string' && data.reply.trim())
+                    ? data.reply
+                    : '系统开小差了，请再说一遍。';
+                const sources = (data && Array.isArray(data.sources)) ? data.sources : [];
+                appendMessage(reply, false, sources);
+
+                // 把本轮问答写入历史，最多保留最近 16 条（约 8 轮）
+                history.push({ role: 'user', content: text });
+                history.push({ role: 'assistant', content: reply });
+                if (history.length > 16) history.splice(0, history.length - 16);
+            } catch (err) {
+                // 网络断开/请求失败：优雅气泡提示，严禁显示任何技术错误信息
+                appendMessage('系统开小差了，请再说一遍。', false);
+            } finally {
+                sendBtn.disabled = false;
+                userInput.focus();
+            }
+        }
+
+        sendBtn.addEventListener('click', sendMessage);
+        userInput.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter') sendMessage();
+        });
+
+        checkHealth();
+    </script>
+</body>
+</html>

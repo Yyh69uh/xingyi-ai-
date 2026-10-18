@@ -1,0 +1,41 @@
+{
+  "id": "hotel-tianlai-bayin",
+  "name": "兴义万峰林天籁八音客栈",
+  "category": "客栈",
+  "description": "据Expedia页面，该客栈位于黔西南布依族苗族自治州，距万峰林风景区仅几步之遥。据Hotels.com页面，客栈提供烤肉架、花园及免费停车，步行几分钟可达万峰林风景区。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市万峰林风景区附近（具体门牌待核实）",
+    "district": "兴义市",
+    "transport_hint": "据平台页面，步行数分钟可达万峰林风景区。"
+  },
+  "suitable_for": [
+    "休闲",
+    "亲子"
+  ],
+  "facilities": [
+    "烤肉架",
+    "花园",
+    "免费停车（据Hotels.com）"
+  ],
+  "time_info": {
+    "opening_hours": "待核实"
+  },
+  "notes": [],
+  "tags": [
+    "天籁八音",
+    "客栈",
+    "万峰林",
+    "兴义"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0115",
+    "SRC-WEB-0116"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "位置与设施有Expedia、Hotels.com 两来源；具体门牌地址与房价未取得，标记为待核实。"
+}

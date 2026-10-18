@@ -1,0 +1,51 @@
+{
+  "id": "culture-buyi-marriage",
+  "name": "布依族婚俗（浪哨）",
+  "aliases": [
+    "浪哨",
+    "丢花包"
+  ],
+  "category": "民俗",
+  "description": "据百度百科，布依族青年男女每年新春佳节期间通过浪哨（对歌）、串寨丢花包等方式相识。据都匀市人民政府网站文章，“浪哨”用布依话说是“Laangs saaul”，“浪”指男男女女，是布依族青年社交与择偶的传统方式。据中国民族网，“六月六”期间的对歌“浪哨”活动，为布依青年男女的恋爱婚姻创造了条件。",
+  "related_places": [
+    "attraction-nanlong-guzhai",
+    "culture-buyi-liuyueliu"
+  ],
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州（布依族聚居区）",
+    "district": "黔西南州"
+  },
+  "suitable_for": [
+    "研学",
+    "民俗体验"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "notes": [
+    "为民族传统习俗，参观或拍摄应尊重当地礼仪。"
+  ],
+  "tags": [
+    "浪哨",
+    "婚俗",
+    "布依族",
+    "对歌",
+    "民俗"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0093",
+    "SRC-GOV-0011",
+    "SRC-WEB-0065"
+  ],
+  "source_types": [
+    "网络公开资料",
+    "政府公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "浪哨含义有都匀市政府网站来源，婚俗形式有百度百科与中国民族网印证，三者一致。"
+}

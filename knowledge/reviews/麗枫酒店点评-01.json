@@ -1,0 +1,24 @@
+{
+  "id": "review-hotel-lavande-01",
+  "target_id": "hotel-lavande",
+  "target_type": "hotel",
+  "reviewer_type": "游客公开评价",
+  "reviewer": "待核实",
+  "rating": "待核实",
+  "content": "（摘录）這家酒店藏在桔山大道的核心地段，恰好卡在兩大景點的交通樞紐上：開車6分鐘就能直達馬嶺河峽谷景區入口，比住景區門口的民宿多了市區的便利，卻少了奔波的……",
+  "collected_platform": "Trip.com",
+  "tags": [
+    "麗枫",
+    "桔山大道",
+    "交通便利"
+  ],
+  "source_ids": [
+    "SRC-WEB-0107"
+  ],
+  "source_types": [
+    "游客公开评价"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "内容为Trip.com旅客分享页的公开摘要片段（摘录，原文被截断）。点评者昵称未记录，标记为待核实。"
+}

@@ -1,0 +1,124 @@
+{
+  "id": "humanity-xingyi-bazhong",
+  "name": "兴义市第八中学",
+  "aliases": [
+    "兴义八中"
+  ],
+  "category": "人文·校园",
+  "description": "兴义市城区中学。据百度百科（SRC-WEB-0119），学校位于兴义市兴泰街道富民路、毗邻国家级风景区万峰林，创建于 1996 年，由贵州醇酒厂投资 3000 多万元兴建，为贵州省省级示范性普通高中；曾获全国群众体育先进集体、全国教育系统先进单位、全国中小学图书馆先进集体、全国奥林匹克教育示范学校等称号。据今日头条自媒体文章（SRC-WEB-0120），校训为“以德为本、学有创见”。**筹建主体与示范性高中等级在不同来源间存在冲突，未自行采信，详见 review_notes。** 本知识库另收录本队于 2025 年 3 月 16 日在校园内拍摄的实景照片 10 张。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市兴泰街道富民路（毗邻万峰林）",
+    "district": "兴义市",
+    "transport_hint": "待核实"
+  },
+  "suitable_for": [
+    "研学"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "校园为教学场所，非收费景区；是否对外开放参观未取得来源，标待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "校园属教学场所，非旅游景区，入校参观须经校方同意。",
+    "本条目当前内容以本队实拍照片为主，文字资料待补充。"
+  ],
+  "tags": [
+    "兴义八中",
+    "校园",
+    "中学",
+    "兴义",
+    "实地拍摄"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "path": "data/media/attractions/attraction-xingyi-bazhong/IMG_20250316_100350.jpg",
+      "source_id": "SRC-PHOTO-0015",
+      "caption": "兴义八中校园实景（本队2025-03-16 10:03拍摄）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/attractions/attraction-xingyi-bazhong/IMG_20250316_100403.jpg",
+      "source_id": "SRC-PHOTO-0016",
+      "caption": "兴义八中校园实景（本队2025-03-16 10:04拍摄）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/attractions/attraction-xingyi-bazhong/IMG_20250316_100515.jpg",
+      "source_id": "SRC-PHOTO-0017",
+      "caption": "兴义八中校园实景（本队2025-03-16 10:05拍摄）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/attractions/attraction-xingyi-bazhong/IMG_20250316_100802.jpg",
+      "source_id": "SRC-PHOTO-0018",
+      "caption": "兴义八中校园实景（本队2025-03-16 10:08拍摄）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/attractions/attraction-xingyi-bazhong/IMG_20250316_100831.jpg",
+      "source_id": "SRC-PHOTO-0019",
+      "caption": "兴义八中校园实景（本队2025-03-16 10:08拍摄）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/attractions/attraction-xingyi-bazhong/IMG_20250316_100925.jpg",
+      "source_id": "SRC-PHOTO-0020",
+      "caption": "兴义八中校园实景（本队2025-03-16 10:09拍摄）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/attractions/attraction-xingyi-bazhong/IMG_20250316_101018_1.jpg",
+      "source_id": "SRC-PHOTO-0021",
+      "caption": "兴义八中校园实景（本队2025-03-16 10:10拍摄）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/attractions/attraction-xingyi-bazhong/IMG_20250316_101538.jpg",
+      "source_id": "SRC-PHOTO-0022",
+      "caption": "兴义八中校园实景（本队2025-03-16 10:15拍摄）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/attractions/attraction-xingyi-bazhong/IMG_20250316_101653.jpg",
+      "source_id": "SRC-PHOTO-0023",
+      "caption": "兴义八中校园实景（本队2025-03-16 10:16拍摄）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/attractions/attraction-xingyi-bazhong/IMG_20250316_115359.jpg",
+      "source_id": "SRC-PHOTO-0024",
+      "caption": "兴义八中校园实景（本队2025-03-16 11:53拍摄）"
+    }
+  ],
+  "source_ids": [
+    "SRC-WEB-0119",
+    "SRC-WEB-0120",
+    "SRC-PHOTO-0015",
+    "SRC-PHOTO-0016",
+    "SRC-PHOTO-0017",
+    "SRC-PHOTO-0018",
+    "SRC-PHOTO-0019",
+    "SRC-PHOTO-0020",
+    "SRC-PHOTO-0021",
+    "SRC-PHOTO-0022",
+    "SRC-PHOTO-0023",
+    "SRC-PHOTO-0024"
+  ],
+  "source_types": [
+    "网络公开资料",
+    "实地拍摄"
+  ],
+  "collected_at": "2026-10-18",
+  "data_status": "待核实",
+  "review_notes": "**来源冲突（均未采信）**：①筹建主体——百度百科记「贵州醇酒厂投资3000多万元兴建」，今日头条自媒体记「由黔西南州政府筹建」；②示范性高中等级——百度百科与搜狗百科记「省级示范性普通高中」，今日头条记「贵州省首批一类示范性高中」。因两者均非学校官方或教育主管部门发布，一律不采信，需以学校官网或黔西南州教育局口径核实。多来源一致的部分（创建于1996年、位于兴泰街道富民路、毗邻万峰林）已录入。另：本队2025-03-16实拍照片10张（SRC-PHOTO-0015~0024）为独立一手来源。图片存放于 data/media/attractions/attraction-xingyi-bazhong/（沿用建目录时的路径，未因归类调整而移动文件）。"
+}

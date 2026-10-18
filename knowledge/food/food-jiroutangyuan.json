@@ -1,0 +1,37 @@
+{
+  "id": "food-jiroutangyuan",
+  "name": "兴义鸡肉汤圆",
+  "aliases": [],
+  "category": "小吃",
+  "description": "贵州省兴义市的传统名小吃，始创于清朝末期。以咸鲜口味区别于常见的甜汤圆，有“众家皆甜，唯我咸鲜”之说。选用上等糯米磨成吊浆粉制皮，以鸡肉为馅、内灌鸡汤，并附上花生酱。",
+  "location": {
+    "address": "兴义市（多家店铺分布，具体店址待核实）",
+    "district": "兴义市"
+  },
+  "shops": [],
+  "suitable_for": [
+    "大众"
+  ],
+  "time_info": {},
+  "notes": [
+    "为咸味肉馅汤圆，与常见甜汤圆口味差异较大。"
+  ],
+  "tags": [
+    "鸡肉汤圆",
+    "兴义",
+    "名小吃",
+    "咸鲜"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0012",
+    "SRC-WEB-0054",
+    "SRC-WEB-0056"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "来源为百度百科、搜狐、新浪旅游，信息相互一致。未采集到带日期的可靠价格来源。"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "attraction-lubuge-shenguhu",
+  "name": "鲁布格深谷湖",
+  "aliases": [
+    "鲁布格省级风景名胜区",
+    "鲁布革深谷湖"
+  ],
+  "category": "自然景观",
+  "description": "鲁布格省级风景名胜区位于贵州省黔西南布依族苗族自治州兴义市鲁布格镇，地处黔、滇、桂三省（区）结合部的黄泥河沿岸，其核心景区深谷湖两岸峭岩突兀、林木繁茂。据去哪儿页面介绍，景区内有一景点称鲁毗，是观云山雾海的好地方，还可观赏云湖山、世界第一斜塔等自然景观。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市鲁布格镇（距兴义市区约70公里）",
+    "district": "兴义市",
+    "transport_hint": "待核实"
+  },
+  "suitable_for": [
+    "摄影",
+    "自驾"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "未找到可追溯的票价来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [],
+  "tags": [
+    "鲁布格",
+    "深谷湖",
+    "省级风景名胜区",
+    "兴义"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0008",
+    "SRC-WEB-0045"
+  ],
+  "source_types": [
+    "网络公开资料",
+    "游客公开评价"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "开放时间与票价未找到可靠来源。"
+}

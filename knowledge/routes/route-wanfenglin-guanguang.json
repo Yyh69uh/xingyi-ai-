@@ -1,0 +1,88 @@
+{
+  "id": "route-wanfenglin-guanguang",
+  "name": "万峰林观光游览线路（景区观光车环线）",
+  "category": "一日游",
+  "description": "以万峰林景区为核心的观光游览线路：由游客中心检票入园后，乘观峰道游览观光车观峰林，再经万峰林西南广场、乡愁集市至半月弯森林营地。据万峰林景区官网，景区提供观光车、共享车骑行、步行等多种游玩方式。",
+  "duration_days": "1",
+  "stops": [
+    {
+      "order": 1,
+      "name": "万峰林景区游客中心（检票口）",
+      "related_id": "attraction-wanfenglin",
+      "time_info": "待核实",
+      "note": "统一入园地址（据Klook产品页）。"
+    },
+    {
+      "order": 2,
+      "name": "观峰道（乘观峰道游览观光车）",
+      "related_id": "attraction-wanfenglin",
+      "time_info": "待核实",
+      "note": "观峰道游览观光车50元/人（据景区官网票务页）。"
+    },
+    {
+      "order": 3,
+      "name": "万峰林西南广场",
+      "related_id": "待核实",
+      "time_info": "待核实",
+      "note": "共享车骑行线路起点之一（据景区官网游玩方式页）。"
+    },
+    {
+      "order": 4,
+      "name": "乡愁集市",
+      "related_id": "待核实",
+      "time_info": "待核实",
+      "note": "共享车骑行线路节点（据景区官网游玩方式页）。"
+    },
+    {
+      "order": 5,
+      "name": "半月弯森林营地",
+      "related_id": "待核实",
+      "time_info": "待核实",
+      "note": "共享车骑行线路终点（据景区官网游玩方式页）。"
+    }
+  ],
+  "location": {
+    "address": "待核实",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "亲子",
+    "摄影",
+    "老年人"
+  ],
+  "time_info": {
+    "opening_hours": "淡季8:30—17:30；旺季8:00—18:00（同万峰林景区开放时间）",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "景区门票淡季60元/人、旺季70元/人；观峰道游览观光车50元/人",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "价格来自万峰林景区官网票务页，采集于2026-10-16；实际以景区当日公告为准。",
+    "price_verified_at": "2026-10-16"
+  },
+  "notes": [
+    "景区实行提前订票、刷身份证入园。"
+  ],
+  "tags": [
+    "万峰林",
+    "观光车",
+    "环线",
+    "一日游"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-OFFICIAL-0001",
+    "SRC-OFFICIAL-0006",
+    "SRC-WEB-0067"
+  ],
+  "source_types": [
+    "景区资料",
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "行程节点由景区官网“游玩方式”“票务信息”页面与Klook产品页信息组合而成，各节点停留时间未找到来源，标记为待核实。"
+}

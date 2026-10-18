@@ -1,0 +1,65 @@
+{
+  "id": "route-malinghe-canyon-tour",
+  "name": "游最美城市大峡谷（马岭河峡谷线路）",
+  "category": "一日游",
+  "description": "万峰林景区官网“兴义精品旅游路线推荐”（2024-07-01）列出的“游山玩水之旅”主题线路之一。官网描述：马岭河峡谷景区位于兴义市市区境内，是一条在造山运动中剖削深切的大裂水地缝，峡谷集雄、奇、险、秀为一体，谷内群瀑飞流、翠竹倒挂、溶洞相连，两岸古树名木点缀其间。亮点为“游世界上最美丽最壮观的城市大峡谷、体验‘中华第一漂’马岭河峡谷漂流”；住宿建议“马岭河峡谷惜苑别苑”；美食建议“盛世苗家（酸汤鱼、兴派黔菜）”。",
+  "duration_days": "待核实",
+  "stops": [
+    {
+      "order": 1,
+      "name": "马岭河峡谷景区",
+      "related_id": "attraction-malinghe",
+      "time_info": "待核实",
+      "note": "据景区官网线路推荐页。"
+    },
+    {
+      "order": 2,
+      "name": "马岭河峡谷漂流（官网称“中华第一漂”）",
+      "related_id": "activity-malinghe-rafting",
+      "time_info": "待核实",
+      "note": "据景区官网线路推荐页。"
+    }
+  ],
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "摄影",
+    "户外运动"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "线路本身不单独定价，未采集到带日期的可靠价格来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "住宿建议“马岭河峡谷惜苑别苑”、美食建议“盛世苗家”均为官网推荐，未逐一核实经营情况。"
+  ],
+  "tags": [
+    "马岭河峡谷",
+    "大峡谷",
+    "漂流",
+    "一日游",
+    "线路"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-OFFICIAL-0018",
+    "SRC-OFFICIAL-0003"
+  ],
+  "source_types": [
+    "景区资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "线路描述、亮点、住宿与美食建议均来自景区官网同一页面；各节点停留时间与是否含漂流项目需以实际运营为准，标记为待核实。"
+}

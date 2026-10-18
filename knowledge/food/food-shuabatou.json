@@ -1,0 +1,35 @@
+{
+  "id": "food-shuabatou",
+  "name": "兴义刷把头",
+  "aliases": [],
+  "category": "小吃",
+  "description": "始创于清朝同治年间的贵州兴义传统名小吃，传承超过150年，因形状如民间所用竹刷把而得名。成品体积与成人拇指相近，表皮淡黄油亮，具有“皮薄不粘牙，馅料占八成”的特点。主料为竹笋、瘦肉、面粉、鸡蛋，面皮用面粉、鸡蛋、水调制后人工扦制成薄如纸的状态。",
+  "location": {
+    "address": "兴义市（多家店铺分布，具体店址待核实）",
+    "district": "兴义市"
+  },
+  "shops": [],
+  "suitable_for": [
+    "大众"
+  ],
+  "time_info": {},
+  "notes": [],
+  "tags": [
+    "刷把头",
+    "兴义",
+    "名小吃",
+    "同治"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0013",
+    "SRC-WEB-0055",
+    "SRC-WEB-0053"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "百度百科、搜狐、澎湃新闻三来源信息一致。未采集到带日期的可靠价格来源。"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "transport-hongchun-parking",
+  "name": "万峰湖红椿码头停车与接驳",
+  "category": "景区接驳",
+  "description": "据Trip.com旅客点评，红椿码头一带可在红椿一号码头停车，停车费为10元。该信息来自游客点评，非运营方公示。",
+  "from": "红椿一号码头停车场",
+  "to": "万峰湖红椿码头",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市万峰湖红椿一号码头",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "自驾"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实（游客点评提到停车费10元，非运营方公示且未标注日期）",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "停车费来自游客点评，未取得运营方公示价，未采信为事实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "停车收费标准须以现场公示为准。"
+  ],
+  "tags": [
+    "停车",
+    "红椿码头",
+    "万峰湖",
+    "自驾"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0081"
+  ],
+  "source_types": [
+    "游客公开评价"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "仅游客点评单一来源，停车费金额未采信，标记为待核实。"
+}

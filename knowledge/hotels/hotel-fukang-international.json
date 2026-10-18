@@ -1,0 +1,44 @@
+{
+  "id": "hotel-fukang-international",
+  "name": "兴义富康国际酒店",
+  "category": "星级酒店",
+  "description": "位于兴义桔山新区瑞金路19号。据Agoda页面介绍，该酒店为五星级，拥有420间客房，入住时间14:00起、退房时间12:00。据TripAdvisor住客点评，酒店位于桔山大道上，有自己的停车场，装修与硬件条件在当地较好。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市桔山新区瑞金路19号",
+    "district": "兴义市",
+    "transport_hint": "据TripAdvisor点评，距机场车程约十多分钟。"
+  },
+  "suitable_for": [
+    "商务",
+    "家庭"
+  ],
+  "facilities": [
+    "停车场",
+    "中餐厅（据TripAdvisor点评）"
+  ],
+  "time_info": {
+    "opening_hours": "入住14:00起，退房12:00（据Agoda页面）"
+  },
+  "notes": [
+    "酒店旁为桔山广场及黔西南州博物院（据TripAdvisor点评）。"
+  ],
+  "tags": [
+    "富康国际酒店",
+    "桔山",
+    "星级酒店",
+    "兴义"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0035",
+    "SRC-WEB-0071",
+    "SRC-WEB-0046"
+  ],
+  "source_types": [
+    "网络公开资料",
+    "游客公开评价"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "酒店名称为携程页面所用名称；星级（五星级）与客房数（420间）来自Agoda页面，未取得酒店官方来源印证，标记为待核实。房价属动态信息，未采集到带日期的可靠来源，故未录入价格字段。"
+}

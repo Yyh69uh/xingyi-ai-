@@ -1,0 +1,47 @@
+{
+  "id": "culture-guizhoulong",
+  "name": "贵州龙（胡氏贵州龙）",
+  "aliases": [
+    "胡氏贵州龙"
+  ],
+  "category": "历史",
+  "description": "贵州龙是中国境内最早被发现的原始鳍龙类，其化石最初于1957年夏季由时任中国地质博物馆馆员胡承志发现于贵州省西南部兴义市顶效镇绿荫村，故得名。据百度百科，该化石后经中国科学院古脊椎动物与古人类研究所杨钟健教授鉴定为肿肋龙亚目新属种。兴义三叠纪海洋环境形成的地层中产出的古生物化石群被称为“贵州龙动物群”。",
+  "related_places": [
+    "attraction-geopark-museum"
+  ],
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市顶效镇绿荫村（兴义市区东北方向约13公里）",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "研学",
+    "亲子"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "notes": [
+    "相关化石可在兴义世界地质公园博物馆参观。"
+  ],
+  "tags": [
+    "贵州龙",
+    "胡氏贵州龙",
+    "化石",
+    "古生物",
+    "兴义"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0028",
+    "SRC-WEB-0017"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "发现时间、发现者、命名与产地在维基百科与百度百科间一致。"
+}

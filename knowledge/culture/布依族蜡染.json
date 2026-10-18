@@ -1,0 +1,47 @@
+{
+  "id": "culture-buyi-batik",
+  "name": "布依族蜡染",
+  "aliases": [
+    "布依蓝",
+    "蓝染"
+  ],
+  "category": "非物质文化遗产",
+  "description": "据百度百科，布依族蜡染是布依族传统染色技艺，以蜂蜡为防染剂，用铜制蜡刀在白布上绘制图案，经蓝靛浸染、脱蜡后形成蓝白相间的冰纹效果，图案包含几何纹样与自然纹样。据中国非物质文化遗产网，布依蓝是布依族服饰的代表色，当地保留了旧时“蓝染技艺”。",
+  "related_places": [],
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州（布依族聚居区）",
+    "district": "黔西南州"
+  },
+  "suitable_for": [
+    "研学",
+    "民俗体验"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "notes": [
+    "可体验的蜡染工坊信息未采集到，需另行核实。"
+  ],
+  "tags": [
+    "蜡染",
+    "布依蓝",
+    "蓝染",
+    "非遗",
+    "技艺"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0091",
+    "SRC-WEB-0090"
+  ],
+  "source_types": [
+    "网络公开资料",
+    "官方资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "工艺描述有百度百科来源，布依蓝与蓝染技艺有中国非物质文化遗产网来源，两者一致。"
+}

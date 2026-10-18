@@ -1,0 +1,48 @@
+{
+  "id": "transport-shankun-expressway",
+  "name": "G78汕昆高速公路（板坝至江底段）",
+  "category": "自驾",
+  "description": "据新华网报道，贵州省G78汕昆高速板坝至江底段项目起于册亨县板坝（桂黔界），到达兴义市岔江村江底（黔滇界），接入云南省江底至石林高速公路，全长约127.984公里，整体式路基宽24.5米，按双向四车道建设。",
+  "from": "册亨县板坝（桂黔界）",
+  "to": "兴义市岔江村江底（黔滇界）",
+  "location": {
+    "address": "贵州省（册亨板坝—兴义江底）",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "自驾"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "未找到可追溯的带日期价格来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "该路段是进出兴义的重要通道之一。"
+  ],
+  "tags": [
+    "高速公路",
+    "汕昆高速",
+    "G78",
+    "自驾",
+    "兴义"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-NEWS-0016"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "里程、起止点与车道数来自新华网报道，属客观工程数据。通行费未取得，未录入。"
+}

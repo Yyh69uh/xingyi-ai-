@@ -1,0 +1,47 @@
+{
+  "id": "transport-keyun-xizhan",
+  "name": "兴义客运西站",
+  "category": "长途客运",
+  "description": "据百度百科，兴义客运西站是贵州省兴义市木贾街道的国家一级客运站，位于坪东大道，营业时间为06:00—21:00。车站占地面积77亩，2017年10月31日投入试运营。",
+  "from": "兴义",
+  "to": "州内外各地",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市木贾街道坪东大道",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "大众"
+  ],
+  "time_info": {
+    "opening_hours": "06:00—21:00",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "汽车票为动态价格，未采集到带日期的可靠来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "班次与时刻会调整，出行前请以客运站官方信息为准。"
+  ],
+  "tags": [
+    "客运站",
+    "兴义客运西站",
+    "长途汽车",
+    "交通"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0022"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "仅百度百科单一来源；营业时间与班线信息建议以客运站官方渠道交叉核实，标记为待核实。"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "food-shazhufan",
+  "name": "布依杀猪饭",
+  "aliases": [],
+  "category": "宴席菜",
+  "description": "据万峰林景区官网美食页介绍，杀猪饭的菜式因地而异，“美味在肉，吃的是氛围”，常见菜式有回锅肉、爆炒猪肝、白菜煮血旺、炖排骨、凉拌折耳根等。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市万峰林一带（乡村餐馆）",
+    "district": "兴义市"
+  },
+  "shops": [],
+  "suitable_for": [
+    "大众",
+    "研学"
+  ],
+  "time_info": {},
+  "notes": [
+    "多为乡村餐馆/农家按需制作，需提前预约。"
+  ],
+  "tags": [
+    "杀猪饭",
+    "布依族",
+    "农家菜",
+    "兴义"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-OFFICIAL-0012"
+  ],
+  "source_types": [
+    "景区资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "信息来自万峰林景区官网美食页单一官方渠道；价格与供应方式未取得，未录入价格字段。"
+}

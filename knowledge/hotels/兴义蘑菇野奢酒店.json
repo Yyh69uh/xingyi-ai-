@@ -1,0 +1,43 @@
+{
+  "id": "hotel-mushroom",
+  "name": "兴义蘑菇野奢酒店",
+  "category": "民宿",
+  "description": "据携程酒店页，酒店坐落于兴义贵醇新路1号，房型有大床房、双床房、家庭房等。据Trip.com页面，酒店距贵州醇景区观景平台约0.32公里、距阳光谷旅游度假区约0.26公里，且不允许携带宠物入住。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市贵醇新路1号",
+    "district": "兴义市",
+    "transport_hint": "紧邻贵州醇景区与阳光谷旅游度假区。"
+  },
+  "suitable_for": [
+    "亲子",
+    "休闲"
+  ],
+  "facilities": [
+    "待核实"
+  ],
+  "time_info": {
+    "opening_hours": "待核实"
+  },
+  "notes": [
+    "据Trip.com，不允许携带宠物入住。"
+  ],
+  "tags": [
+    "蘑菇酒店",
+    "野奢",
+    "贵州醇",
+    "阳光谷",
+    "兴义"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0110",
+    "SRC-WEB-0111",
+    "SRC-WEB-0112"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "地址与周边距离有携程、Trip.com 两来源印证，宠物政策有Trip.com来源。房价未采集到带日期的可靠来源，未录入。"
+}

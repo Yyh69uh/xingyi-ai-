@@ -1,0 +1,91 @@
+{
+  "id": "route-xingyi-3day-slow",
+  "name": "兴义三天慢游线路",
+  "category": "两日游",
+  "description": "据去哪儿攻略问答页，兴义三天慢游的 Day1 安排为：从贵阳前往兴义，入住万峰林景区民宿，午餐吃将军桥炒饭，打卡吉隆堡，下午走万峰林观光环线看喀斯特峰林落日，晚餐吃本地柴火鸡。其余两日安排该页面未在检索结果中完整呈现。",
+  "duration_days": "3",
+  "stops": [
+    {
+      "order": 1,
+      "name": "从贵阳前往兴义",
+      "related_id": "待核实",
+      "time_info": "待核实",
+      "note": "据去哪儿攻略 Day1 描述。"
+    },
+    {
+      "order": 2,
+      "name": "万峰林景区民宿（入住）",
+      "related_id": "待核实",
+      "time_info": "待核实",
+      "note": "据去哪儿攻略 Day1 描述。"
+    },
+    {
+      "order": 3,
+      "name": "将军桥（午餐：炒饭）",
+      "related_id": "待核实",
+      "time_info": "中午",
+      "note": "据去哪儿攻略 Day1 描述。"
+    },
+    {
+      "order": 4,
+      "name": "吉隆堡",
+      "related_id": "待核实",
+      "time_info": "待核实",
+      "note": "据去哪儿攻略 Day1 描述；该地点信息尚未单独建档。"
+    },
+    {
+      "order": 5,
+      "name": "万峰林观光环线（观峰林落日）",
+      "related_id": "route-wanfenglin-guanguang",
+      "time_info": "下午—傍晚",
+      "note": "据去哪儿攻略 Day1 描述。"
+    },
+    {
+      "order": 6,
+      "name": "本地柴火鸡（晚餐）",
+      "related_id": "待核实",
+      "time_info": "晚上",
+      "note": "据去哪儿攻略 Day1 描述。"
+    }
+  ],
+  "location": {
+    "address": "待核实",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "亲子",
+    "摄影"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "3天",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "未采集到带日期的可靠价格来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "仅 Day1 行程有来源支撑，Day2、Day3 安排缺失。"
+  ],
+  "tags": [
+    "三日游",
+    "慢游",
+    "万峰林",
+    "兴义"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0049"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "Day2、Day3 行程缺失；Day1 内容来自单一网络攻略来源，建议交叉核实。"
+}

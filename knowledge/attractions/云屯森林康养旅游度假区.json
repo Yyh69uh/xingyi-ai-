@@ -1,0 +1,53 @@
+{
+  "id": "attraction-yuntun",
+  "name": "云屯森林康养旅游度假区",
+  "aliases": [
+    "云屯生态体育公园",
+    "云屯公园"
+  ],
+  "category": "自然景观",
+  "description": "位于贵州省黔西南州义龙新区鲁屯镇，是一个集生态康养、休闲娱乐、运动拓展等多功能为一体的生态康养旅游度假区。据新华网报道，云屯公园已开设草坪户外婚庆、星空野奢帐篷及树屋、云集楼特色民宿、露营、真人CS等经营项目。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州义龙新区鲁屯镇",
+    "district": "义龙新区",
+    "transport_hint": "待核实"
+  },
+  "suitable_for": [
+    "亲子",
+    "户外运动",
+    "康养"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "未找到可追溯的带日期价格来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [],
+  "tags": [
+    "云屯",
+    "康养",
+    "露营",
+    "义龙新区",
+    "兴义"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-OFFICIAL-0015",
+    "SRC-NEWS-0013"
+  ],
+  "source_types": [
+    "景区资料",
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "位置与经营项目有景区官网与新华网两来源；票价与开放时间未取得可靠来源，标记为待核实。"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "review-wanfenghu-02",
+  "target_id": "attraction-wanfenghu",
+  "target_type": "attraction",
+  "reviewer_type": "游客公开评价",
+  "reviewer": "待核实",
+  "rating": "待核实",
+  "content": "（摘录）风景很美 景区因为偏僻而显得幽静，坐得大游轮，价性比高一元惊喜！老人小孩都玩得很开心！比较壮观得湖景，值得推荐！比较其他景区不用排队等候",
+  "collected_platform": "同程旅行",
+  "tags": [
+    "万峰湖",
+    "游船",
+    "亲子"
+  ],
+  "source_ids": [
+    "SRC-WEB-0047"
+  ],
+  "source_types": [
+    "游客公开评价"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "内容为同程旅行景区页公开点评摘要（摘录，保留原文表述）。点评者昵称与评分未记录，标记为待核实。"
+}

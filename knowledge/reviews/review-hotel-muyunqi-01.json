@@ -1,0 +1,24 @@
+{
+  "id": "review-hotel-muyunqi-01",
+  "target_id": "hotel-muyunqi",
+  "target_type": "hotel",
+  "reviewer_type": "游客公开评价",
+  "reviewer": "待核实",
+  "rating": "9.7/10（该页面标注的评分）",
+  "content": "（摘录）這次在萬峰林沐雲棲民宿（下納灰店）連住五晚，體驗真的超讚！民宿地點極佳、乾淨又舒適。最讓人驚喜的是入住與……",
+  "collected_platform": "Trip.com",
+  "tags": [
+    "沐云栖民宿",
+    "万峰林",
+    "住宿"
+  ],
+  "source_ids": [
+    "SRC-WEB-0040"
+  ],
+  "source_types": [
+    "游客公开评价"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "内容为Trip.com页面公开住客评价摘要（摘录，原文被截断）。点评者显示为“Guest User”，标记为待核实。"
+}

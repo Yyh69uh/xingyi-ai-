@@ -1,0 +1,72 @@
+{
+  "id": "route-malinghe-wanfenglin-wanfenghu-2d",
+  "name": "马岭河峡谷+万峰林+万峰湖二日游",
+  "category": "两日游",
+  "description": "以兴义三大景区为组合的二日游线路，市面产品通常覆盖马岭河峡谷、万峰林与万峰湖。据Klook平台产品页，该类产品为精致小团、含司机兼向导与接送；去哪儿平台亦有“万峰林景区+万峰湖+马岭河峡谷景区二日游”产品。",
+  "duration_days": "2",
+  "stops": [
+    {
+      "order": 1,
+      "name": "马岭河峡谷景区",
+      "related_id": "attraction-malinghe",
+      "time_info": "待核实",
+      "note": "据Klook/去哪儿二日游产品页。"
+    },
+    {
+      "order": 2,
+      "name": "万峰林景区",
+      "related_id": "attraction-wanfenglin",
+      "time_info": "待核实",
+      "note": "据Klook/去哪儿二日游产品页。"
+    },
+    {
+      "order": 3,
+      "name": "万峰湖景区",
+      "related_id": "attraction-wanfenghu",
+      "time_info": "待核实",
+      "note": "据Klook/去哪儿二日游产品页。"
+    }
+  ],
+  "location": {
+    "address": "待核实",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "亲子",
+    "摄影"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "2天",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "产品报价随平台、季节浮动，未采集到带日期的可靠价格来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "市面产品含导游/司机服务，具体行程以产品页为准。"
+  ],
+  "tags": [
+    "二日游",
+    "马岭河峡谷",
+    "万峰林",
+    "万峰湖",
+    "跟团"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0067",
+    "SRC-WEB-0048"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "各日具体时间安排与报价未找到稳定来源，标记为待核实。"
+}

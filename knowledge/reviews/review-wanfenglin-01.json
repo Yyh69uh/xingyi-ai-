@@ -1,0 +1,24 @@
+{
+  "id": "review-wanfenglin-01",
+  "target_id": "attraction-wanfenglin",
+  "target_type": "attraction",
+  "reviewer_type": "游客公开评价",
+  "reviewer": "待核实",
+  "rating": "4.7/5（该页面综合评分，44条评价）",
+  "content": "（摘录）我先去万峰林，门票80元，我建议乘坐观光车（上下车）50元。这是一个美妙的风景……",
+  "collected_platform": "TripAdvisor（猫途鹰）",
+  "tags": [
+    "万峰林",
+    "门票",
+    "观光车"
+  ],
+  "source_ids": [
+    "SRC-WEB-0041"
+  ],
+  "source_types": [
+    "游客公开评价"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "内容为检索结果中该点评页的公开摘要片段（原文较长，此处为摘录）。点评者昵称未记录，标记为待核实。此点评中的“门票80元”与景区官网票价（淡季60元/旺季70元）不一致，已在 attraction-wanfenglin 中作为来源冲突记录。"
+}

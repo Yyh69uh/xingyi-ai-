@@ -1,0 +1,67 @@
+{
+  "id": "attraction-heyingqin-guju",
+  "name": "何应钦故居",
+  "aliases": [
+    "何家大院"
+  ],
+  "category": "人文古迹",
+  "description": "地处贵州兴义城南部泥凼镇，是国民政府军政部长、行政院长何应钦先生的故乡故居。据万峰林景区官网介绍，1890年4月何应钦出生于镇南一幢木结构中式房屋内。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市泥凼镇（泥凼社区）",
+    "district": "兴义市",
+    "coordinates": {
+      "lat": 24.826537,
+      "lng": 104.869974,
+      "crs": "GCJ02"
+    },
+    "transport_hint": "位于兴义城南部约45公里处（百度百科记约45公里）。"
+  },
+  "suitable_for": [
+    "研学",
+    "摄影"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "未找到可追溯的票价来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "高德地图页面给出电话 0859-3374058（采集于2026-10-16，可能变动）。"
+  ],
+  "tags": [
+    "何应钦",
+    "故居",
+    "泥凼",
+    "兴义",
+    "人文"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "path": "data/media/attractions/attraction-heyingqin-guju/2020-08-01_何应钦故居_故居建筑.jpg",
+      "source_id": "SRC-IMG-0027",
+      "caption": "故居建筑（2020-08-01拍摄，来源：tuchong.com）"
+    }
+  ],
+  "source_ids": [
+    "SRC-WEB-0005",
+    "SRC-OFFICIAL-0005",
+    "SRC-WEB-0052",
+    "SRC-IMG-0027"
+  ],
+  "source_types": [
+    "网络公开资料",
+    "景区资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "开放时间与票价未找到可靠来源；坐标来自高德地图（GCJ02），未经实地校验。 已接入公开摄影平台实景图 1 张（来源见 media[].source_id，非本队拍摄）。 另：公开图片 EXIF 记录坐标（WGS84）2020-08-01 24.829544,104.867996，与已录坐标系不同，未替换。"
+}

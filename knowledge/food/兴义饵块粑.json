@@ -1,0 +1,36 @@
+{
+  "id": "food-erkuaiiba",
+  "name": "兴义饵块粑",
+  "aliases": [],
+  "category": "小吃",
+  "description": "贵州省兴义市特产，中国国家地理标志产品，属布依族特色食品。以当地特有的香稻米制成，富有韧性、不裂不溶、煮不乱汤、气味清香、耐水泡贮存。",
+  "location": {
+    "address": "兴义市（具体生产/销售点待核实）",
+    "district": "兴义市"
+  },
+  "shops": [],
+  "suitable_for": [
+    "大众"
+  ],
+  "time_info": {},
+  "notes": [
+    "为地理标志产品。"
+  ],
+  "tags": [
+    "饵块粑",
+    "兴义",
+    "地理标志",
+    "布依族"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0015",
+    "SRC-WEB-0058"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "百度百科与搜狐信息一致。电商平台有销售价格，但属动态商业信息，未录入。"
+}

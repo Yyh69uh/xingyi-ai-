@@ -1,0 +1,24 @@
+{
+  "id": "review-yuhuangding-01",
+  "target_id": "attraction-yuhuangding",
+  "target_type": "attraction",
+  "reviewer_type": "游客公开评价",
+  "reviewer": "待核实",
+  "rating": "待核实",
+  "content": "（摘录）玉皇顶风景区是一个民营性质的景点，属于半开发的状态。山路崎岖，好多个发夹弯，车技不错的不妨上山打卡。门票20元，性价比很高。站在景区制高点……",
+  "collected_platform": "携程",
+  "tags": [
+    "玉皇顶",
+    "自驾",
+    "门票"
+  ],
+  "source_ids": [
+    "SRC-WEB-0075"
+  ],
+  "source_types": [
+    "游客公开评价"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "内容为携程景点页的公开摘要片段（摘录），属攻略式点评，非严格意义的用户评分点评。点评者与评分未记录，标记为待核实。"
+}

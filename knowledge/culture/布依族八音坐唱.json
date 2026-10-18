@@ -1,0 +1,49 @@
+{
+  "id": "culture-bayi-zuochang",
+  "name": "布依族八音坐唱",
+  "aliases": [
+    "布依八音",
+    "八音坐唱"
+  ],
+  "category": "非物质文化遗产",
+  "description": "贵州省兴义市布依族八音坐唱又叫“布依八音”，是布依族世代相传的一种民间曲艺说唱形式，千百年来在南盘江流域的村村寨寨传承延续。据百度百科，2006年5月20日，贵州省兴义市申报的布依族八音坐唱经国务院批准列入第一批国家级非物质文化遗产名录，项目编号Ⅴ—46。据新华网，其在节日、婚嫁、祝寿、建房等场合表演，主要分布在南盘江下游兴义、安龙等地。",
+  "related_places": [
+    "attraction-nanlong-guzhai"
+  ],
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市（南盘江流域）",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "研学",
+    "民俗体验"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "notes": [
+    "观赏表演需以当地文化场馆/景区实际演出安排为准。"
+  ],
+  "tags": [
+    "八音坐唱",
+    "布依族",
+    "国家级非遗",
+    "曲艺"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0029",
+    "SRC-WEB-0018",
+    "SRC-NEWS-0003"
+  ],
+  "source_types": [
+    "官方资料",
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "国家级非遗名录信息有中国非物质文化遗产网与百度百科两来源，表演场合与分布有新华网印证，三者一致。"
+}

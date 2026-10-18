@@ -1,0 +1,23 @@
+{
+  "id": "review-nanlong-01",
+  "target_id": "attraction-nanlong-guzhai",
+  "target_type": "attraction",
+  "reviewer_type": "游客公开评价",
+  "reviewer": "待核实",
+  "rating": "4.0/5（该页面综合评分，3条评价）",
+  "content": "（摘录）这里空气质量很好，环境卫生优良，很有民族特色，当地的小吃很有特点。这里的人对待游客非常热情有礼貌，今后还会带更多的朋友来这里。",
+  "collected_platform": "TripAdvisor（猫途鹰）",
+  "tags": [
+    "南龙布依古寨",
+    "民族特色"
+  ],
+  "source_ids": [
+    "SRC-WEB-0044"
+  ],
+  "source_types": [
+    "游客公开评价"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "内容为检索结果中该点评页的公开摘要片段（摘录）。点评者昵称未记录，标记为待核实。"
+}

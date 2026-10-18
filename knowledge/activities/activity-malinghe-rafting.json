@@ -1,0 +1,47 @@
+{
+  "id": "activity-malinghe-rafting",
+  "name": "马岭河峡谷漂流",
+  "category": "户外运动",
+  "description": "据百度百科，马岭河峡谷漂流位于贵州省黔西南布依族苗族自治州兴义市境内，是兴义国家地质公园的核心体验项目。漂流段依托造山运动形成的深切裂谷地貌，全程包含80余处险滩、60余道弯。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市马岭河峡谷",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "户外运动"
+  ],
+  "time_info": {
+    "start": "待核实",
+    "end": "待核实",
+    "recurrence": "待核实",
+    "opening_hours": "待核实",
+    "suggested_duration": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "未采集到带日期的可靠价格来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "漂流受水位与天气影响，开放情况需以景区当日公告为准。",
+    "属高风险项目，需遵守运营方安全要求。"
+  ],
+  "tags": [
+    "漂流",
+    "马岭河峡谷",
+    "户外运动",
+    "兴义"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0023"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "仅百度百科单一来源；价格、开放季节与运营方信息未采集到，标记为待核实。"
+}

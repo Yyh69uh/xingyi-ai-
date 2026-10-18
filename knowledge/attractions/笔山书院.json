@@ -1,0 +1,141 @@
+{
+  "id": "attraction-bishan-shuyuan",
+  "name": "笔山书院",
+  "aliases": [
+    "老书院",
+    "新书院"
+  ],
+  "category": "人文古迹",
+  "description": "据《中国自助游》（中国旅游出版社，SRC-BOOK-0001，P222）：乾隆四十九年（1784年），普安州判建书院于黄草坝（今兴义市）水井坡，因书院旁山形似笔架，故名笔山书院。嘉庆初年毁于战乱，嘉庆十八年（1813年）童生捐资重修，咸丰至同治年间又毁于战乱。光绪初年由原书院山长李辉垣（辨识存疑）在地基上恢复书院，后称“老书院”。光绪十五年（1889年），兴义县团练首领刘官礼（统之）提议用历年积存办团练款新建书院，并购置大量图书、学田，书院年收入折谷达15万公斤，称“新书院”。书院曾聘雷廷珍、姚华、熊范舆、徐天叙等任教；光绪三十一年（1905年），徐天叙带13名学生到贵阳报考贵阳通省公立中学堂，以1/3的名次考入，名震贵州学界；先后送王书文、王伯群、刘显治、何应钦、李伯尧、保衡等数十人至省立中学堂及出国留学。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市（原址在黄草坝水井坡，现址与开放情况待核实）",
+    "district": "兴义市",
+    "transport_hint": "待核实"
+  },
+  "suitable_for": [
+    "研学",
+    "人文"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "未找到可追溯的带日期价格来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "现址、是否对外开放、是否有校史馆可参观，均待核实。",
+    "书中“李辉垣”“赵显彬”两处人名辨识存疑，未作为确定信息使用。"
+  ],
+  "tags": [
+    "笔山书院",
+    "书院",
+    "教育史",
+    "刘官礼",
+    "何应钦",
+    "王伯群",
+    "兴义"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "path": "data/media/books/SRC-BOOK-0001/P191.jpg",
+      "source_id": "SRC-PHOTO-0001",
+      "caption": "书页照片 P191（本队拍摄于兴义市第五中学图书馆）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/books/SRC-BOOK-0001/P192-P193.jpg",
+      "source_id": "SRC-PHOTO-0002",
+      "caption": "书页照片 P192—P193（本队拍摄于兴义市第五中学图书馆）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/books/SRC-BOOK-0001/P196-P197.jpg",
+      "source_id": "SRC-PHOTO-0003",
+      "caption": "书页照片 P196—P197，页内可见页码196（本队拍摄于兴义市第五中学图书馆）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/books/SRC-BOOK-0001/Image_1792314429328_588.jpg",
+      "source_id": "SRC-PHOTO-0005",
+      "caption": "书页照片，页内可见页码196；与 P196-P197.jpg 为同一页的不同拍摄（本队拍摄于兴义市第五中学图书馆）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/books/SRC-BOOK-0001/Image_1792314426459_895.jpg",
+      "source_id": "SRC-PHOTO-0006",
+      "caption": "书页照片，页内可见页码198（本队拍摄于兴义市第五中学图书馆）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/books/SRC-BOOK-0001/Image_1792314427754_742.jpg",
+      "source_id": "SRC-PHOTO-0007",
+      "caption": "书页照片，页内可见页码201，推断跨 P200—P201（本队拍摄于兴义市第五中学图书馆）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/books/SRC-BOOK-0001/Image_1792314420854_126.jpg",
+      "source_id": "SRC-PHOTO-0008",
+      "caption": "书页照片，页内可见页码215（本队拍摄于兴义市第五中学图书馆）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/books/SRC-BOOK-0001/Image_1792314422147_49.jpg",
+      "source_id": "SRC-PHOTO-0009",
+      "caption": "书页照片，页内可见页码216（本队拍摄于兴义市第五中学图书馆）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/books/SRC-BOOK-0001/Image_1792314417901_49.jpg",
+      "source_id": "SRC-PHOTO-0010",
+      "caption": "书页照片，页内可见页码218与219（本队拍摄于兴义市第五中学图书馆）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/books/SRC-BOOK-0001/Image_1792314415501_972.jpg",
+      "source_id": "SRC-PHOTO-0011",
+      "caption": "书页照片，页内未识别到页码，据内容推断为 P220—P221（页码待核实；本队拍摄于兴义市第五中学图书馆）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/books/SRC-BOOK-0001/Image_1792314416676_126.jpg",
+      "source_id": "SRC-PHOTO-0012",
+      "caption": "书页照片，页内未识别到页码，据内容与摘录匹配推断为 P222—P223（页码待核实；本队拍摄于兴义市第五中学图书馆）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/books/SRC-BOOK-0001/P224-P225.jpg",
+      "source_id": "SRC-PHOTO-0004",
+      "caption": "书页照片 P224—P225（本队拍摄于兴义市第五中学图书馆）"
+    }
+  ],
+  "source_ids": [
+    "SRC-BOOK-0001",
+    "SRC-PHOTO-0001",
+    "SRC-PHOTO-0002",
+    "SRC-PHOTO-0003",
+    "SRC-PHOTO-0004",
+    "SRC-PHOTO-0005",
+    "SRC-PHOTO-0006",
+    "SRC-PHOTO-0007",
+    "SRC-PHOTO-0008",
+    "SRC-PHOTO-0009",
+    "SRC-PHOTO-0010",
+    "SRC-PHOTO-0011",
+    "SRC-PHOTO-0012"
+  ],
+  "source_types": [
+    "本地文化资料",
+    "实地拍摄"
+  ],
+  "collected_at": "2026-10-18",
+  "data_status": "待核实",
+  "review_notes": "仅《中国自助游》P222 单一书籍来源（本组于兴义市第五中学图书馆拍摄书页取证）。现址、开放时间、票价均未取得，全部标记为待核实。已归档书页照片 12 张（SRC-PHOTO-0001~0012）：其中 10 张页内可见页码经 OCR 核对，2 张（SRC-PHOTO-0011、0012）页码为内容推断、标注待核实；SRC-PHOTO-0005 与 SRC-PHOTO-0003 为同一页的不同拍摄。"
+}

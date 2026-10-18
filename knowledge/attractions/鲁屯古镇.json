@@ -1,0 +1,49 @@
+{
+  "id": "attraction-lutun-guzhen",
+  "name": "鲁屯古镇",
+  "aliases": [],
+  "category": "人文古迹",
+  "description": "据黔西南州人民政府网站“历史文化之旅”介绍，鲁屯古镇位于贵州省黔西南州兴义市东北部，属于义龙新区范围，鲁屯是明清时期军事政治的中心。该页面另载有相关古建筑占地面积3470平方米、建筑面积1257.42平方米的信息。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市东北部（义龙新区鲁屯镇）",
+    "district": "义龙新区",
+    "transport_hint": "待核实"
+  },
+  "suitable_for": [
+    "研学",
+    "摄影"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "未找到可追溯的带日期价格来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "古建筑具体开放情况需以当地管理方公告为准。"
+  ],
+  "tags": [
+    "鲁屯古镇",
+    "屯堡",
+    "义龙新区",
+    "明清",
+    "兴义"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-GOV-0010"
+  ],
+  "source_types": [
+    "政府公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "仅黔西南州人民政府网站单一政府来源；票价、开放时间与具体古建筑名称未取得，标记为待核实。"
+}

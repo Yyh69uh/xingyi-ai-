@@ -1,0 +1,44 @@
+{
+  "id": "culture-buyi-costume",
+  "name": "布依族服饰",
+  "aliases": [],
+  "category": "非物质文化遗产",
+  "description": "据中国非物质文化遗产网，布依族服饰既是族群的标识，又与丧祭、婚姻、节庆等仪式紧密相关，由妇女自种、自纺、自织、自染、自缝、自绣而成，集纺织、印染、挑花、刺绣、蜡染、织锦等技艺于一体。据中国日报报道，贵州布依族服饰文化经长期历史演进与传承，包含种、纺、织、染、绣、缝等工艺。",
+  "related_places": [],
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州（布依族聚居区）",
+    "district": "黔西南州"
+  },
+  "suitable_for": [
+    "研学",
+    "民俗体验"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "notes": [
+    "属国家级非物质文化遗产代表性项目。"
+  ],
+  "tags": [
+    "布依族服饰",
+    "非遗",
+    "纺织",
+    "刺绣"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0089",
+    "SRC-WEB-0088",
+    "SRC-NEWS-0015"
+  ],
+  "source_types": [
+    "官方资料",
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "非遗项目信息有中国非物质文化遗产网来源，工艺构成有百度百科与中国日报印证。"
+}

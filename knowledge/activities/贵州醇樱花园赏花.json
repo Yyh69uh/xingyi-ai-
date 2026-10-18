@@ -1,0 +1,47 @@
+{
+  "id": "activity-guizhouchun-sakura",
+  "name": "贵州醇景区樱花园赏花",
+  "category": "节庆活动",
+  "description": "据百度百科“贵州醇景区”词条，景区内设有樱花园，樱花观赏期在每年3月中旬至4月中旬；词条同时记载景区淡季开放时间为08:00—18:30、旺季为07:00—19:30。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市（贵州醇景区/阳光谷旅游度假区）",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "摄影",
+    "亲子"
+  ],
+  "time_info": {
+    "start": "待核实",
+    "end": "待核实",
+    "recurrence": "每年3月中旬至4月中旬（据百度百科）",
+    "opening_hours": "待核实（百度百科另记淡季08:00—18:30、旺季07:00—19:30，与meet99来源不一致，见 attraction-guizhouchun）",
+    "suggested_duration": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "景区门票制度本身存在来源冲突（见 attraction-guizhouchun），票价未采信。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "赏花期为花季信息，每年略有浮动。"
+  ],
+  "tags": [
+    "樱花",
+    "贵州醇",
+    "赏花",
+    "兴义"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0004"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "仅百度百科单一来源；赏花期与景区开放时间均需以景区官方公告核实，标记为待核实。"
+}

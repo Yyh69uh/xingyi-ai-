@@ -1,0 +1,111 @@
+{
+  "id": "humanity-city-skyline",
+  "name": "兴义城区高楼顶部城市风光",
+  "aliases": [
+    "兴义城市天际线",
+    "兴义城区俯瞰",
+    "兴义城市风光"
+  ],
+  "category": "人文·城市景观",
+  "description": "本队于2025年8月27日傍晚至夜间，在兴义市城区多栋建筑顶部拍摄的城市风光组照，共8张。画面可见兴义城区密集建筑群、环城喀斯特群山轮廓、以及日落前后云层与光线变化，可直观呈现兴义『城在山中、山在城中』的城市空间格局。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市城区（多栋建筑顶部，具体楼栋待核实）",
+    "district": "兴义市",
+    "transport_hint": "待核实"
+  },
+  "suitable_for": [
+    "摄影"
+  ],
+  "time_info": {
+    "opening_hours": "不适用（城市公共空间；楼顶拍摄须取得物业或管理方许可）",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "不适用"
+  },
+  "price_info": {
+    "ticket": "不适用（城市景观，非收费景区）",
+    "discount": "不适用",
+    "currency": "CNY",
+    "price_note": "城市公共空间，不涉及门票；楼顶拍摄须取得管理方许可。",
+    "price_verified_at": "不适用"
+  },
+  "notes": [
+    "拍摄点位为多栋建筑顶部，非对外开放观景台，登顶拍摄须取得物业或管理方许可。",
+    "照片按拍摄时间排序，可反映当日 18:22 至 19:20 日落前后光线与云层变化。"
+  ],
+  "tags": [
+    "城市风光",
+    "天际线",
+    "俯瞰",
+    "喀斯特",
+    "兴义",
+    "实地拍摄",
+    "摄影"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "path": "data/media/humanities/humanity-city-skyline/IMG_20250827_182209.jpg",
+      "source_id": "SRC-PHOTO-0025",
+      "caption": "兴义城区建筑群与环城群山，云层较厚（本队2025-08-27 18:22拍摄）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/humanities/humanity-city-skyline/IMG_20250827_182544.jpg",
+      "source_id": "SRC-PHOTO-0026",
+      "caption": "楼体侧影与西侧晚霞（本队2025-08-27 18:25拍摄）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/humanities/humanity-city-skyline/IMG_20250827_183803.jpg",
+      "source_id": "SRC-PHOTO-0027",
+      "caption": "远眺峰丛群山与城区天际线（本队2025-08-27 18:38拍摄）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/humanities/humanity-city-skyline/IMG_20250827_183808.jpg",
+      "source_id": "SRC-PHOTO-0028",
+      "caption": "高处俯瞰城区住宅楼群与群山（本队2025-08-27 18:38拍摄）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/humanities/humanity-city-skyline/IMG_20250827_184125.jpg",
+      "source_id": "SRC-PHOTO-0029",
+      "caption": "暮色中的城区与远山轮廓（本队2025-08-27 18:41拍摄）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/humanities/humanity-city-skyline/IMG_20250827_184709.jpg",
+      "source_id": "SRC-PHOTO-0030",
+      "caption": "落日余晖下的城区天际线与层云（本队2025-08-27 18:47拍摄）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/humanities/humanity-city-skyline/IMG_20250827_185943.jpg",
+      "source_id": "SRC-PHOTO-0031",
+      "caption": "大面积云层与落日余光下的城区（本队2025-08-27 18:59拍摄）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/humanities/humanity-city-skyline/IMG_20250827_192056.jpg",
+      "source_id": "SRC-PHOTO-0032",
+      "caption": "楼顶视角俯瞰城市街道与建筑群（本队2025-08-27 19:20拍摄）"
+    }
+  ],
+  "source_ids": [
+    "SRC-PHOTO-0025",
+    "SRC-PHOTO-0026",
+    "SRC-PHOTO-0027",
+    "SRC-PHOTO-0028",
+    "SRC-PHOTO-0029",
+    "SRC-PHOTO-0030",
+    "SRC-PHOTO-0031",
+    "SRC-PHOTO-0032"
+  ],
+  "source_types": [
+    "实地拍摄"
+  ],
+  "collected_at": "2026-10-18",
+  "data_status": "待核实",
+  "review_notes": "条目依据为本队2025-08-27实拍照片8张（来源 SRC-PHOTO-0025~0032）。描述内容限于照片画面可直接确认的信息（建筑群、群山、云层、光线变化）；具体拍摄楼栋名称、楼顶海拔、机位朝向均未记录，标待核实。"
+}

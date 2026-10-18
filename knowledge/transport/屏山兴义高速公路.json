@@ -1,0 +1,47 @@
+{
+  "id": "transport-pingxing-expressway",
+  "name": "屏山—兴义高速公路",
+  "category": "自驾",
+  "description": "据维基百科，屏山—兴义高速公路路线起于盘州海铺枢纽互通，与沪昆高速和水盘高速相接，经水塘、民主、忠义、保田、普田，兴义品甸、清水河、马岭，止于兴义东互通立交，接汕昆高速。",
+  "from": "盘州（海铺枢纽互通）",
+  "to": "兴义（兴义东互通立交）",
+  "location": {
+    "address": "贵州省（盘州—兴义）",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "自驾"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "未找到可追溯的带日期价格来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "路况与收费以高速公路管理部门公布为准。"
+  ],
+  "tags": [
+    "高速公路",
+    "屏兴高速",
+    "自驾",
+    "兴义"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0101"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "路线走向来自维基百科单一条目，属客观线路描述。通行费与里程未取得，未录入。"
+}

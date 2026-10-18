@@ -1,0 +1,36 @@
+{
+  "id": "food-yangroufen",
+  "name": "兴义羊肉粉",
+  "aliases": [],
+  "category": "小吃",
+  "description": "贵州省黔西南州兴义市的传统小吃，属黔菜系，起源于清代，已有300余年历史。选用本地黑山羊肉及粳稻米粉，配以秘制酱料、花椒等调料，具有羊肉熟透不膻的特点。兴义有“羊肉粉之乡”之称。",
+  "location": {
+    "address": "兴义市（多家店铺分布，具体店址待核实）",
+    "district": "兴义市"
+  },
+  "shops": [],
+  "suitable_for": [
+    "大众"
+  ],
+  "time_info": {},
+  "notes": [
+    "口味偏辣，可按需调整。"
+  ],
+  "tags": [
+    "羊肉粉",
+    "兴义",
+    "传统小吃",
+    "黔菜"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0011",
+    "SRC-NEWS-0001"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "名称、起源、原料等信息有百度百科与新华网两个来源，相互一致。未采集到带日期的可靠价格来源，故未录入价格字段。"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "attraction-maomaodong",
+  "name": "猫猫洞遗址",
+  "aliases": [
+    "猫猫洞旧石器文化遗址"
+  ],
+  "category": "人文古迹",
+  "description": "位于贵州省兴义市顶效镇猫猫山，属旧石器时代晚期遗址，距今约1.2万年，因山形似匍匐山猫得名。据百度百科，洞口高3米、宽4米，1975年发掘出土7件“兴义人”化石及4000余件石制品等。据中国科学院古脊椎动物与古人类研究所资料，该遗址1974年冬发现、次年冬首次发掘，出土石制品4000余件、用火遗迹、骨角器14件及古动物化石。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市顶效镇猫猫山",
+    "district": "义龙新区",
+    "transport_hint": "待核实"
+  },
+  "suitable_for": [
+    "研学"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "未找到可追溯的带日期价格来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "为考古遗址，是否对外开放需向当地文物部门确认。"
+  ],
+  "tags": [
+    "猫猫洞",
+    "旧石器",
+    "兴义人",
+    "考古",
+    "兴义"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0082",
+    "SRC-WEB-0083"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "年代、发现与发掘时间、出土物数量在百度百科与中科院古脊椎所资料间一致。开放信息未取得，故未录入相关字段。"
+}

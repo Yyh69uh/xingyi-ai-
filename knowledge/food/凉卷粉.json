@@ -1,0 +1,35 @@
+{
+  "id": "food-liangjuanfen",
+  "name": "凉卷粉",
+  "aliases": [],
+  "category": "小吃",
+  "description": "据百度百科“凉卷”词条，凉卷粉以米（如苦荞、大米）磨浆蒸制而成，呈片状或条状，口感嫩滑、劲道，食用时拌以辣椒油、花椒油、酱油、醋、花生碎、香菜等秘制调料，风味以酸、甜、辣为主。万峰林景区官网美食页亦将“凉卷粉”列为景区周边小店的特色美食之一。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市（万峰林一带多见，具体店址待核实）",
+    "district": "兴义市"
+  },
+  "shops": [],
+  "suitable_for": [
+    "大众"
+  ],
+  "time_info": {},
+  "notes": [],
+  "tags": [
+    "凉卷粉",
+    "米制",
+    "小吃",
+    "兴义"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0086",
+    "SRC-OFFICIAL-0012"
+  ],
+  "source_types": [
+    "网络公开资料",
+    "景区资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "工艺与口感有百度百科来源，当地在售情况有景区官网美食页印证。"
+}

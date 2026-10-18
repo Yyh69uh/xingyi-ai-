@@ -1,0 +1,24 @@
+{
+  "id": "review-wanfenglin-02",
+  "target_id": "attraction-wanfenglin",
+  "target_type": "attraction",
+  "reviewer_type": "游客公开评价",
+  "reviewer": "待核实",
+  "rating": "4.7/5（该页面综合评分，5618条评价）",
+  "content": "（摘录）親測萬峰林｜跟著攜程榜單打卡，果然沒踩雷！08:00-18:00營業(17:30停止入場)",
+  "collected_platform": "Trip.com",
+  "tags": [
+    "万峰林",
+    "打卡",
+    "营业时间"
+  ],
+  "source_ids": [
+    "SRC-WEB-0068"
+  ],
+  "source_types": [
+    "游客公开评价"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "内容为旅客点评页的公开摘要片段（摘录）。点评者昵称未记录，标记为待核实。"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "transport-panxing-hsr",
+  "name": "盘兴高速铁路",
+  "category": "高铁",
+  "description": "据国务院新闻办公室发布会文字实录，盘兴高铁与沪昆高铁相连，并与沪昆、水兴等多条高速公路以及国省干线交汇连通，构建起高效衔接的地面交通网络，其中兴义南站与兴义万峰林机场形成衔接。据维基百科兴义南站条目，兴义南站于2025年11月28日开通运营，是盘兴高速铁路上的一座车站。",
+  "from": "盘州",
+  "to": "兴义（兴义南站）",
+  "location": {
+    "address": "贵州省（盘州—兴义）",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "大众",
+    "商务"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "未找到可追溯的带日期价格来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "车次与时刻以铁路12306官方信息为准。"
+  ],
+  "tags": [
+    "高铁",
+    "盘兴高铁",
+    "兴义南站",
+    "交通"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-GOV-0002",
+    "SRC-WEB-0118"
+  ],
+  "source_types": [
+    "政府公开资料",
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "线路衔接关系有国新办发布会来源，开通日期有维基百科来源，两者一致。票价未取得，未录入。"
+}

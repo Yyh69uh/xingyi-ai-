@@ -1,0 +1,49 @@
+{
+  "id": "activity-hongchun-cruise",
+  "name": "万峰湖红椿码头游船观光",
+  "category": "体验项目",
+  "description": "万峰湖红椿码头提供乘船游湖观光项目。据去哪儿平台，码头有“贵州龙游船观光票”等产品在售；据百度百科，码头开放时间为08:30—17:30（16:00停止入园）。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市万峰湖红椿码头",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "亲子",
+    "摄影",
+    "休闲"
+  ],
+  "time_info": {
+    "start": "待核实",
+    "end": "待核实",
+    "recurrence": "待核实",
+    "opening_hours": "08:30—17:30（16:00停止入园，据百度百科）",
+    "suggested_duration": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "平台有游船观光票在售，但票价为动态商业信息且未取得带日期的可靠来源，未录入具体金额。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "船班受水位与天气影响。"
+  ],
+  "tags": [
+    "游船",
+    "红椿码头",
+    "万峰湖",
+    "观光"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0080",
+    "SRC-WEB-0079"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "产品存在性有去哪儿来源，开放时间有百度百科来源；票价与班次未取得，标记为待核实。"
+}

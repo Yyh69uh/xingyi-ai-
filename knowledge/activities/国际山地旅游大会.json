@@ -1,0 +1,48 @@
+{
+  "id": "activity-international-mountain-tourism",
+  "name": "国际山地旅游大会（兴义）",
+  "category": "节庆活动",
+  "description": "2015年10月10日，首届国际山地旅游大会开幕式在贵州省兴义市万峰林会议中心开幕，大会主题为“山地旅游·绿色运动·同向发展”。据新华网报道，兴义是国际山地旅游大会的永久会址与举办地，近年持续发展山地旅游及户外运动。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市万峰林（会议中心）",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "行业",
+    "研学"
+  ],
+  "time_info": {
+    "start": "2015-10-10",
+    "end": "待核实",
+    "recurrence": "自2015年起举办，兴义为永久会址（据新华网）；每年具体会期待核实",
+    "opening_hours": "待核实",
+    "suggested_duration": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "大会为行业会议，未采集到票务信息，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "历届具体会期与活动安排需以主办方公告为准。"
+  ],
+  "tags": [
+    "山地旅游",
+    "国际山地旅游大会",
+    "兴义",
+    "永久会址"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0019",
+    "SRC-NEWS-0005"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "首届时间与主题有百度百科与新华网两来源；历届会期未逐一采集，标记为待核实。"
+}

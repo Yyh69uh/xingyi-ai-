@@ -1,0 +1,24 @@
+{
+  "id": "review-hotel-fukang-01",
+  "target_id": "hotel-fukang-international",
+  "target_type": "hotel",
+  "reviewer_type": "游客公开评价",
+  "reviewer": "待核实",
+  "rating": "4.2/5（该页面综合评分，10条评价）",
+  "content": "（摘录）酒店位于桔山大道上，交通很方便，有自己的停车场，开车过来很方便。装修感觉4星往上，硬件设施非常不错，在当地来应该算是一流的酒店了。房间比较大，卫生做的不错",
+  "collected_platform": "TripAdvisor（猫途鹰）",
+  "tags": [
+    "富康国际酒店",
+    "住宿",
+    "交通"
+  ],
+  "source_ids": [
+    "SRC-WEB-0046"
+  ],
+  "source_types": [
+    "游客公开评价"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "内容为检索结果中该点评页的公开摘要片段（摘录）。点评者昵称未记录，标记为待核实。"
+}

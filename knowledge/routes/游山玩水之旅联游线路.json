@@ -1,0 +1,80 @@
+{
+  "id": "route-xingyi-shan-shui",
+  "name": "游山玩水之旅（万峰林+马岭河峡谷+万峰湖+玉皇顶联游）",
+  "category": "两日游",
+  "description": "万峰林景区官网“兴义精品旅游路线推荐”（2024-07-01）将兴义精品线路归为“一、游山玩水之旅”，包含四个主题：游中国最美峰林（万峰林）、游最美城市大峡谷（马岭河峡谷）、一湖一城堡（万峰湖）、观全球最美日落（玉皇顶）。官网对万峰林的描述提到：万峰林是国家5A级旅游景区，是中国喀斯特地质地貌中发育最成熟的锥状峰林典型代表，被称为“中国锥状喀斯特博物馆”；明代旅行家徐霞客曾到过万峰林，留下“天下山峰何其多，唯有此处峰成林”的赞叹。",
+  "duration_days": "待核实",
+  "stops": [
+    {
+      "order": 1,
+      "name": "万峰林景区",
+      "related_id": "attraction-wanfenglin",
+      "time_info": "待核实",
+      "note": "据景区官网线路推荐页。"
+    },
+    {
+      "order": 2,
+      "name": "马岭河峡谷景区",
+      "related_id": "attraction-malinghe",
+      "time_info": "待核实",
+      "note": "据景区官网线路推荐页。"
+    },
+    {
+      "order": 3,
+      "name": "万峰湖景区",
+      "related_id": "attraction-wanfenghu",
+      "time_info": "待核实",
+      "note": "据景区官网线路推荐页。"
+    },
+    {
+      "order": 4,
+      "name": "玉皇顶景区",
+      "related_id": "attraction-yuhuangding",
+      "time_info": "待核实",
+      "note": "据景区官网线路推荐页。"
+    }
+  ],
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "摄影",
+    "亲子",
+    "自驾"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "线路本身不单独定价，未采集到带日期的可靠价格来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "官网未给出四个主题的先后顺序与天数安排，本条目节点顺序按官网列举顺序排列，不代表推荐游览顺序。"
+  ],
+  "tags": [
+    "联游",
+    "万峰林",
+    "马岭河峡谷",
+    "万峰湖",
+    "玉皇顶",
+    "线路"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-OFFICIAL-0018"
+  ],
+  "source_types": [
+    "景区资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "四个主题均来自景区官网同一页面；官网未提供串联顺序、天数与交通衔接方案，本条目未自行编排，节点顺序仅按官网列举顺序，标记为待核实。"
+}

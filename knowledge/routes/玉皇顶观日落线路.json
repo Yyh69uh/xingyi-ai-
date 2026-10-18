@@ -1,0 +1,60 @@
+{
+  "id": "route-yuhuangding-sunset",
+  "name": "观全球最美日落（玉皇顶线路）",
+  "category": "一日游",
+  "description": "万峰林景区官网“兴义精品旅游路线推荐”（2024-07-01）列出的主题线路之一。官网描述：玉皇顶景区位于贵州省兴义市则戎镇，景区内峰林绵延、江河贯穿、云雾缭绕，景色随一天时间的推移而变化，既可看群峰山峦，又可观湖泊和云海日出。亮点为“观最美日落、住最美民宿、品最浪漫的美食”；住宿建议“峰兮·牧云民宿”；美食建议“万峰之巅云上House餐厅”。",
+  "duration_days": "待核实",
+  "stops": [
+    {
+      "order": 1,
+      "name": "玉皇顶景区",
+      "related_id": "attraction-yuhuangding",
+      "time_info": "建议傍晚（观日落）",
+      "note": "据景区官网线路推荐页。"
+    }
+  ],
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "摄影",
+    "自驾",
+    "情侣"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "线路本身不单独定价，未采集到带日期的可靠价格来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "“全球最美日落”为景区官网宣传性表述，非客观评定。",
+    "上山道路崎岖，需注意行车安全。"
+  ],
+  "tags": [
+    "玉皇顶",
+    "日落",
+    "民宿",
+    "线路",
+    "兴义"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-OFFICIAL-0018",
+    "SRC-OFFICIAL-0014"
+  ],
+  "source_types": [
+    "景区资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "线路内容来自景区官网；住宿与餐饮为官网推荐，未核实其经营状态。官网记玉皇顶位于“则戎镇”，而百度百科记“则戎乡”，行政区划表述不一致，未采信其一。"
+}

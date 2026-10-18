@@ -1,0 +1,53 @@
+{
+  "id": "attraction-nahui-cun",
+  "name": "纳灰村（万峰林纳灰村）",
+  "aliases": [],
+  "category": "民族村寨",
+  "description": "贵州省兴义市下五屯街道下辖行政村，布依语“纳”为水田、“灰”指河湾，因傍河湾水田得名。地处万峰林峰林环抱中，距兴义市城区12公里，国土面积6.8平方公里。据万峰林景区官网，2011年国家民委、贵州省民委授予纳灰村“特色民族村寨”称号，2013年纳灰村荣获“中国最美乡村”称号。中国日报亦报道了纳灰村依托景区发展民宿的变化。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市下五屯街道纳灰村（距城区约12公里）",
+    "district": "兴义市",
+    "transport_hint": "待核实"
+  },
+  "suitable_for": [
+    "摄影",
+    "亲子",
+    "民宿体验"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "未找到可追溯的带日期价格来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "村内有多家民宿，见 data/hotels/。"
+  ],
+  "tags": [
+    "纳灰村",
+    "布依族",
+    "中国最美乡村",
+    "万峰林",
+    "兴义"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0078",
+    "SRC-OFFICIAL-0011",
+    "SRC-NEWS-0012"
+  ],
+  "source_types": [
+    "网络公开资料",
+    "景区资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "村名含义、位置、面积有百度百科来源；荣誉称号有景区官网来源；发展情况有中国日报报道，三者互不冲突。"
+}

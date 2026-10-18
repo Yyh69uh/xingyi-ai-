@@ -1,0 +1,53 @@
+{
+  "id": "attraction-wanfenghu",
+  "name": "万峰湖景区",
+  "aliases": [
+    "万峰湖"
+  ],
+  "category": "自然景观",
+  "description": "位于黔西南布依族苗族自治州首府兴义市的东南部，坐落于马岭河下游，是兴义世界地质公园的成员景区、国家4A级风景名胜区，与万峰林、马岭河峡谷相呼应。据猫途鹰页面描述，湖面面积176平方公里，蓄水102.6亿立方米，有40多个深港湾、12个内湖。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市东南部（万峰湖景区）",
+    "district": "兴义市",
+    "transport_hint": "待核实"
+  },
+  "suitable_for": [
+    "摄影",
+    "亲子"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "未找到可追溯的官方票价来源，暂标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "游客点评提到景区较为偏僻、环境幽静（猫途鹰、同程）。"
+  ],
+  "tags": [
+    "万峰湖",
+    "湖泊",
+    "兴义",
+    "4A级"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0003",
+    "SRC-WEB-0042",
+    "SRC-WEB-0047"
+  ],
+  "source_types": [
+    "网络公开资料",
+    "游客公开评价"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "开放时间与票价均未找到可靠来源，标记为待核实。"
+}

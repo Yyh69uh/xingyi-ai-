@@ -1,0 +1,47 @@
+{
+  "id": "activity-wanfenglin-yinghuajie",
+  "name": "万峰林油菜花节",
+  "category": "节庆活动",
+  "description": "万峰林景区的季节性赏花活动。据万峰林景区官网攻略页，2024年油菜花节期间安排了多项活动，如2月10日至2月15日、以及2月11日与2月24日15:00—17:00的活动场次。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市万峰林景区",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "摄影",
+    "亲子"
+  ],
+  "time_info": {
+    "start": "2024-02-10",
+    "end": "2024-02-15",
+    "recurrence": "待核实（有旅游行程资料称“每年冬至前后”油菜花开放，但未找到官方来源，未采信）",
+    "opening_hours": "部分场次15:00—17:00（据景区官网攻略页）",
+    "suggested_duration": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "未采集到带日期的可靠价格来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "2024年活动日期为官网页面所载，2025年及以后的具体日期需以景区公告为准。"
+  ],
+  "tags": [
+    "油菜花",
+    "万峰林",
+    "节庆",
+    "赏花"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-OFFICIAL-0009"
+  ],
+  "source_types": [
+    "景区资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "仅取得2024年活动的日期与场次信息；活动的周期性规律未找到官方来源，未编造，标记为待核实。"
+}

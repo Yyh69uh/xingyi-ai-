@@ -1,0 +1,48 @@
+{
+  "id": "transport-xingyi-railway-station",
+  "name": "兴义站",
+  "category": "火车站",
+  "description": "兴义站位于贵州省黔西南布依族苗族自治州兴义市义龙新区顶效街道，是南昆铁路上的一座铁路车站，建于1997年，由中国铁路南宁局集团百色车务段管辖，为二等站，车站代码49076。",
+  "from": "兴义",
+  "to": "南昆铁路沿线",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市义龙新区顶效街道",
+    "district": "义龙新区"
+  },
+  "suitable_for": [
+    "大众"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "火车票为动态价格，未采集到带日期的可靠来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "车次与时刻会调整，出行前请以铁路12306官方信息为准。"
+  ],
+  "tags": [
+    "火车站",
+    "兴义站",
+    "南昆铁路",
+    "交通"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0021",
+    "SRC-WEB-0026"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "建站年份、管辖单位、等级、车站代码在百度百科与维基百科间一致。"
+}

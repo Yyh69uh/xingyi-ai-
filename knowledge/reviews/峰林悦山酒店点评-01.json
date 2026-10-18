@@ -1,0 +1,24 @@
+{
+  "id": "review-hotel-fenglin-yueshan-01",
+  "target_id": "hotel-fenglin-yueshan",
+  "target_type": "hotel",
+  "reviewer_type": "游客公开评价",
+  "reviewer": "待核实",
+  "rating": "待核实",
+  "content": "（摘录）万峰林机场或兴义高铁站拼车接送可以选择，出行省心省事。这次入住体验很不错，酒店氛围清幽雅致，公共区域打理得清爽舒适；特别是餐厅的菜品地道有本地特色，也能按……",
+  "collected_platform": "携程",
+  "tags": [
+    "峰林悦山",
+    "接送",
+    "餐饮"
+  ],
+  "source_ids": [
+    "SRC-WEB-0113"
+  ],
+  "source_types": [
+    "游客公开评价"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "内容为携程酒店页公开住客评价摘要（摘录，原文被截断）。点评者昵称未记录，标记为待核实。"
+}

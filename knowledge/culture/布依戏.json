@@ -1,0 +1,45 @@
+{
+  "id": "culture-buyi-opera",
+  "name": "布依戏",
+  "aliases": [
+    "谷艺"
+  ],
+  "category": "非物质文化遗产",
+  "description": "据中国非物质文化遗产网，布依戏在布依语中称“谷艺”，主要分布于贵州南部及西南部布依族聚居的册亨、安龙、兴义等县，是受汉、壮、苗族戏曲影响、用布依语演唱的地方戏曲。",
+  "related_places": [],
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州册亨县、安龙县、兴义市等地",
+    "district": "黔西南州"
+  },
+  "suitable_for": [
+    "研学"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "notes": [
+    "申报地区或单位为贵州省册亨县。"
+  ],
+  "tags": [
+    "布依戏",
+    "谷艺",
+    "布依族",
+    "戏曲",
+    "非遗"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0030",
+    "SRC-GOV-0004"
+  ],
+  "source_types": [
+    "官方资料",
+    "政府公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "来源为中国非物质文化遗产网项目页与贵州省政府非遗名录文件。"
+}

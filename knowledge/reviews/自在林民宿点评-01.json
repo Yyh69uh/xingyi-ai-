@@ -1,0 +1,24 @@
+{
+  "id": "review-hotel-zizailin-01",
+  "target_id": "hotel-zizailin",
+  "target_type": "hotel",
+  "reviewer_type": "游客公开评价",
+  "reviewer": "待核实",
+  "rating": "待核实",
+  "content": "（摘录）连续住两了三晚 老板夫妇很热情，老板娘做的早餐很美味，老板的摄影技术666！民宿环境超级美！很有艺术感，性价比超高！地理位置优越，就在下纳灰村集市大榕树美食街",
+  "collected_platform": "携程",
+  "tags": [
+    "自在林民宿",
+    "万峰林",
+    "住宿"
+  ],
+  "source_ids": [
+    "SRC-WEB-0037"
+  ],
+  "source_types": [
+    "游客公开评价"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "内容为携程酒店页公开住客评价摘要（摘录，保留原文表述，含原文笔误“住两了三晚”）。点评者昵称未记录，标记为待核实。"
+}

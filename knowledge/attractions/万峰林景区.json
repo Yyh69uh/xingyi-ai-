@@ -1,0 +1,116 @@
+{
+  "id": "attraction-wanfenglin",
+  "name": "万峰林景区",
+  "aliases": [
+    "万峰林"
+  ],
+  "category": "自然景观",
+  "description": "位于贵州省黔西南布依族苗族自治州兴义市，是世界锥状喀斯特峰林地貌发育最典型的区域，总面积达2000多平方公里，森林覆盖率68.5%，平均海拔1200米，全年平均气温16—18℃，被称为“中国锥状喀斯特博物馆”。据景区官网，万峰林2005年10月被《中国国家地理》“选美中国”专家委员会评定为“中国最美的五大峰林”，2009年1月被国家旅游局批准为国家AAAA级旅游区，2024年12月27日获评国家5A级旅游景区。据景区官网线路推荐页，明代旅行家徐霞客曾到过万峰林，留下“天下山峰何其多，唯有此处峰成林”的赞叹。据《中国自助游》（中国旅游出版社，SRC-BOOK-0001，P200）：万峰林在兴义、安龙、贞丰3市县交界处，约2000平方公里范围内锥峰层层叠叠于海拔750米至1400米的高空；以南、北流向的马岭河为界分为东峰林和西峰林，东峰林景区在兴义市东、长30公里、宽20公里，西峰林景区在马岭河两岸、长130公里、最宽至50公里；徐霞客原句为“天下山峰何其多，唯有此处峰成林；磅礴数千里，为西南奇胜”；万峰林被《中国国家地理》评为中国最美的五大峰林之一，并被纳入中国喀斯特申报世界自然遗产预选名录。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市万峰林景区（万峰林街道/下五屯）",
+    "district": "兴义市",
+    "transport_hint": "景区官网列有公交线路：万峰林景区可乘兴义市301路/19路公交车抵达市区；另有旅游专线连接万峰林机场。"
+  },
+  "suitable_for": [
+    "亲子",
+    "摄影",
+    "徒步",
+    "研学"
+  ],
+  "time_info": {
+    "opening_hours": "淡季（12月1日—2月28日）8:30—17:30；旺季（3月1日—11月30日）8:00—18:00；须提前订票，刷身份证验票入园",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "淡季（12月1日至2月28日）60元/人；旺季（3月1日至11月30日）70元/人；观峰道游览观光车50元/人",
+    "discount": "儿童身高1.2米以上免门票，1.2米以下门票车票全免；在校大中小学生凭学生证免门票；6周岁以下儿童、65周岁以上老年人凭有效身份证明免门票等（详见景区官网票务页）",
+    "currency": "CNY",
+    "price_note": "价格来自万峰林景区官网票务信息页，采集于 2026-10-16；官网页面未标注价格更新日期，实际以景区当日公告为准。",
+    "price_verified_at": "2026-10-16"
+  },
+  "notes": [
+    "景区实行提前订票、刷身份证验票入园。",
+    "观峰道观光车需另行购票。",
+    "书籍与官网对“海拔”的表述不同：官网记平均海拔1200米，书中记锥峰分布于海拔750—1400米，属口径不同，非冲突。"
+  ],
+  "tags": [
+    "万峰林",
+    "喀斯特",
+    "峰林",
+    "兴义",
+    "国家5A级旅游景区",
+    "国家风景名胜区",
+    "徐霞客",
+    "世界自然遗产预选名录"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "path": "data/media/attractions/attraction-wanfenglin/2015-05-26_万峰林_峰丛田园风光.jpg",
+      "source_id": "SRC-IMG-0001",
+      "caption": "峰丛田园风光（2015-05-26拍摄，来源：dp.pconline.com.cn）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/attractions/attraction-wanfenglin/2016-03-03_万峰林_峰丛田园风光.jpg",
+      "source_id": "SRC-IMG-0002",
+      "caption": "峰丛田园风光（2016-03-03拍摄，来源：tuchong.com）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/attractions/attraction-wanfenglin/2018-02-14_万峰林_峰丛田园风光.jpg",
+      "source_id": "SRC-IMG-0003",
+      "caption": "峰丛田园风光（2018-02-14拍摄，来源：tuchong.com）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/attractions/attraction-wanfenglin/2018-02-27_万峰林_峰丛田园风光.jpg",
+      "source_id": "SRC-IMG-0004",
+      "caption": "峰丛田园风光（2018-02-27拍摄，来源：tuchong.com）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/attractions/attraction-wanfenglin/2018-07-16_万峰林_峰丛田园风光.jpg",
+      "source_id": "SRC-IMG-0005",
+      "caption": "峰丛田园风光（2018-07-16拍摄，来源：dp.pconline.com.cn）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/attractions/attraction-wanfenglin/2020-08-24_万峰林_峰丛田园风光.jpg",
+      "source_id": "SRC-IMG-0006",
+      "caption": "峰丛田园风光（2020-08-24拍摄，来源：tuchong.com）"
+    },
+    {
+      "type": "image",
+      "path": "data/media/attractions/attraction-wanfenglin/2020-09-18_万峰林_峰丛田园风光.jpg",
+      "source_id": "SRC-IMG-0007",
+      "caption": "峰丛田园风光（2020-09-18拍摄，来源：tuchong.com）"
+    }
+  ],
+  "source_ids": [
+    "SRC-OFFICIAL-0001",
+    "SRC-OFFICIAL-0011",
+    "SRC-WEB-0001",
+    "SRC-WEB-0041",
+    "SRC-OFFICIAL-0018",
+    "SRC-BOOK-0001",
+    "SRC-IMG-0001",
+    "SRC-IMG-0002",
+    "SRC-IMG-0003",
+    "SRC-IMG-0004",
+    "SRC-IMG-0005",
+    "SRC-IMG-0006",
+    "SRC-IMG-0007"
+  ],
+  "source_types": [
+    "景区资料",
+    "网络公开资料",
+    "游客公开评价",
+    "本地文化资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "来源冲突：景区官网票务页标注淡季60元/旺季70元（采集于2026-10-16），而猫途鹰一条游客点评提到“门票80元”。两者不一致，未自行采信任一方，价格以景区当日官方公告为准。开放时间在景区官网与百度百科之间一致。 已接入公开摄影平台实景图 7 张（来源见 media[].source_id，非本队拍摄）。 已补入《中国自助游》P200 书籍来源（SRC-BOOK-0001，本组于兴义市第五中学图书馆拍摄书页取证）；东/西峰林里程数据仅书籍单一来源，未与他源交叉，按书籍口径记录。"
+}

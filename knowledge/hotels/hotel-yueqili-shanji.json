@@ -1,0 +1,37 @@
+{
+  "id": "hotel-yueqili-shanji",
+  "name": "悦栖里·山及民宿（万峰林景区上纳灰店）",
+  "category": "民宿",
+  "description": "据携程酒店页介绍，该民宿坐落于兴义黔西南州万峰林上纳灰榨房组48号，附近拥有众多景点，交通便利，房型有大床房、双床房、家庭房等。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市万峰林上纳灰榨房组48号",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "亲子",
+    "休闲度假"
+  ],
+  "facilities": [
+    "待核实"
+  ],
+  "time_info": {
+    "opening_hours": "待核实"
+  },
+  "notes": [],
+  "tags": [
+    "民宿",
+    "万峰林",
+    "上纳灰",
+    "兴义"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0036"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "地址与房型信息来自携程页面；价格与设施未采集到可靠来源，标记为待核实。"
+}

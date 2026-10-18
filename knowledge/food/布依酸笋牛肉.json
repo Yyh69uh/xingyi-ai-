@@ -1,0 +1,37 @@
+{
+  "id": "food-suansun-niurou",
+  "name": "布依酸笋牛肉",
+  "aliases": [],
+  "category": "宴席菜",
+  "description": "据万峰林景区官网美食页介绍，布依酸笋牛肉采用本地酸爽够劲的小西红柿加上店家秘制的酸辣椒，熬制出鲜艳浓郁的红汤，配以需纯手工腌制月余的脆嫩酸笋。中国旅游报亦将“酸笋牛肉”列入兴义万峰林的美食风物。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市万峰林一带",
+    "district": "兴义市"
+  },
+  "shops": [],
+  "suitable_for": [
+    "大众"
+  ],
+  "time_info": {},
+  "notes": [
+    "口味偏酸辣。"
+  ],
+  "tags": [
+    "酸笋牛肉",
+    "布依族",
+    "酸汤",
+    "兴义"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-OFFICIAL-0012",
+    "SRC-WEB-0077"
+  ],
+  "source_types": [
+    "景区资料",
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "做法与风味有景区官网来源，中国旅游报亦列为当地美食风物，两者一致。"
+}

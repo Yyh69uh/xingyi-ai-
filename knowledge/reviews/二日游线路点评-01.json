@@ -1,0 +1,24 @@
+{
+  "id": "review-route-2d-01",
+  "target_id": "route-malinghe-wanfenglin-wanfenghu-2d",
+  "target_type": "route",
+  "reviewer_type": "游客公开评价",
+  "reviewer": "待核实",
+  "rating": "待核实",
+  "content": "（摘录）贵州服务拍的好,风景不错,可以向朋友推荐（2023-04-30）；贵州服务好,行程轻松,值得推荐。",
+  "collected_platform": "去哪儿",
+  "tags": [
+    "二日游",
+    "跟团",
+    "服务"
+  ],
+  "source_ids": [
+    "SRC-WEB-0048"
+  ],
+  "source_types": [
+    "游客公开评价"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "内容为去哪儿度假产品页公开点评摘要（摘录，保留原文表述）。点评者昵称被平台部分隐藏，标记为待核实。"
+}

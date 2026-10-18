@@ -1,0 +1,36 @@
+{
+  "id": "hotel-muyunqi",
+  "name": "万峰林沐云栖民宿（下纳灰店）",
+  "category": "民宿",
+  "description": "据Trip.com页面，该民宿位于万峰林下纳灰一带，住客评价称“民宿地点极佳、干净又舒适”，入住体验良好。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市万峰林下纳灰（具体门牌待核实）",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "休闲度假"
+  ],
+  "facilities": [
+    "待核实"
+  ],
+  "time_info": {
+    "opening_hours": "待核实"
+  },
+  "notes": [],
+  "tags": [
+    "民宿",
+    "万峰林",
+    "下纳灰",
+    "兴义"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0040"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "信息来自Trip.com列表页住客评价；具体地址、设施与价格未采集到可靠来源，标记为待核实。"
+}

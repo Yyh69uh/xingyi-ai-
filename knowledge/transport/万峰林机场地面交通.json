@@ -1,0 +1,46 @@
+{
+  "id": "transport-airport-bus",
+  "name": "兴义万峰林机场地面交通（含机场大巴）",
+  "category": "机场",
+  "description": "据携程机票机场信息页，兴义万峰林机场页面设有“交通”“机场大巴”“时刻表”等栏目，用于提供机场地面交通信息。该页面摘要中未给出具体班次与票价，故本条目暂未录入具体时刻。",
+  "from": "兴义万峰林机场",
+  "to": "兴义市区等地",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市万峰林机场",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "大众"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "未找到可追溯的带日期价格来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "机场大巴班次、票价与线路须以机场或承运方官方信息为准，本次未取得。"
+  ],
+  "tags": [
+    "机场大巴",
+    "万峰林机场",
+    "地面交通"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0117"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "仅确认携程机场页存在交通/机场大巴栏目，未取得具体班次、票价与运营方信息，全部标记为待核实。"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "attraction-nanlong-guzhai",
+  "name": "南龙布依古寨",
+  "aliases": [
+    "南龙古寨",
+    "南龙村寨"
+  ],
+  "category": "民族村寨",
+  "description": "位于兴义市南部，距兴义市区约48公里，属山区河谷地貌。始建于明洪武年间，现存民居为清一色布依族特色吊脚楼式住宅，属清代建筑，房屋共147栋。据游客点评，寨内较为古朴、商业化程度低。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市南部南龙村（距市区约48公里）",
+    "district": "兴义市",
+    "transport_hint": "待核实"
+  },
+  "suitable_for": [
+    "摄影",
+    "研学",
+    "民俗体验"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "未找到可追溯的票价来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "游客点评提到寨子外有可停放十余辆小客车的停车场（携程）。"
+  ],
+  "tags": [
+    "南龙",
+    "布依族",
+    "古寨",
+    "吊脚楼",
+    "兴义"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0007",
+    "SRC-WEB-0034",
+    "SRC-WEB-0044"
+  ],
+  "source_types": [
+    "网络公开资料",
+    "游客公开评价"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "开放时间与票价未找到可靠来源。"
+}

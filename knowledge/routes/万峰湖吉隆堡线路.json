@@ -1,0 +1,73 @@
+{
+  "id": "route-wanfenghu-castle",
+  "name": "一湖一城堡·一世一双人（万峰湖—吉隆堡线路）",
+  "category": "一日游",
+  "description": "万峰林景区官网“兴义精品旅游路线推荐”（2024-07-01）列出的主题线路之一。官网描述：万峰湖景区位于兴义市东南部，是兴义国家地质公园的重要组成部分，享有“万峰之湖，西南之最，山水画卷”之美誉，也有“野钓天堂”之称；湖的沿岸峰林、石林、溶洞、天坑遍布，早中晚景色风光各异。亮点为“探神秘城堡、游山水画卷、打卡国内唯一的湖心城堡”；美食建议“万峰湖全鱼宴”。",
+  "duration_days": "待核实",
+  "stops": [
+    {
+      "order": 1,
+      "name": "万峰湖景区",
+      "related_id": "attraction-wanfenghu",
+      "time_info": "待核实",
+      "note": "据景区官网线路推荐页。"
+    },
+    {
+      "order": 2,
+      "name": "吉隆堡（湖心城堡）",
+      "related_id": "attraction-jilongbao",
+      "time_info": "待核实",
+      "note": "官网称“国内唯一的湖心城堡”，据景区官网线路推荐页。"
+    },
+    {
+      "order": 3,
+      "name": "万峰湖红椿码头（可选游船）",
+      "related_id": "attraction-hongchun-matou",
+      "time_info": "待核实",
+      "note": "码头信息见 attraction-hongchun-matou；官网该线路页未点名码头，此项为补充关联。"
+    }
+  ],
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "摄影",
+    "情侣",
+    "亲子"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "线路本身不单独定价，未采集到带日期的可靠价格来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "“国内唯一的湖心城堡”为景区官网表述，未独立核实。"
+  ],
+  "tags": [
+    "万峰湖",
+    "吉隆堡",
+    "湖心城堡",
+    "全鱼宴",
+    "线路"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-OFFICIAL-0018",
+    "SRC-OFFICIAL-0017"
+  ],
+  "source_types": [
+    "景区资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "线路描述与亮点来自景区官网；第3个节点为按相关条目补充关联，非官网原文，已在该节点 note 中标注。"
+}

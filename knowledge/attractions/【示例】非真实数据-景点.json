@@ -1,0 +1,43 @@
+{
+  "id": "attraction-example",
+  "name": "【示例】示例景点名称（非真实数据）",
+  "aliases": [],
+  "category": "示例类别",
+  "description": "这是一条示例数据（example），用于验证 attraction.schema.json 的字段格式，不代表兴义任何真实景点。所有内容均为占位，请勿引用为事实。真实资料请另行创建文件并在 sources/SOURCES.csv 登记来源。",
+  "location": {
+    "address": "待核实",
+    "district": "待核实",
+    "transport_hint": "待核实"
+  },
+  "suitable_for": [],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "示例数据，无价格信息。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "示例数据，非真实资料。"
+  ],
+  "tags": [
+    "example",
+    "示例"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-EXAMPLE-0000"
+  ],
+  "source_types": [
+    "其他"
+  ],
+  "collected_at": "2000-01-01",
+  "data_status": "example",
+  "review_notes": "示例文件，仅用于格式验证。请勿将其视为真实景点资料，也不要在生产数据中引用。"
+}

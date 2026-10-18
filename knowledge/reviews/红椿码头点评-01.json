@@ -1,0 +1,24 @@
+{
+  "id": "review-hongchun-01",
+  "target_id": "attraction-hongchun-matou",
+  "target_type": "attraction",
+  "reviewer_type": "游客公开评价",
+  "reviewer": "待核实",
+  "rating": "5.0/5（该页面综合评分，6条评价）",
+  "content": "（摘录）這50元錢太值了。全程1個半小時，景色不錯，適合放空吹吹風。停車場停車10元，在紅椿一號碼頭上。",
+  "collected_platform": "Trip.com",
+  "tags": [
+    "红椿码头",
+    "游船",
+    "停车"
+  ],
+  "source_ids": [
+    "SRC-WEB-0081"
+  ],
+  "source_types": [
+    "游客公开评价"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "verified",
+  "review_notes": "内容为Trip.com景点页公开点评摘要（摘录，保留原文表述）。点评者昵称未记录，标记为待核实。点评中提到的“50元”为个人消费记录，未作为票价录入。"
+}

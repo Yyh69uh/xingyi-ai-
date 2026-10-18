@@ -1,0 +1,71 @@
+{
+  "id": "route-wanfenglin-cycling",
+  "name": "万峰林骑行线路（徐霞客广场—将军峰—布依村寨）",
+  "category": "骑行路线",
+  "description": "据潮新闻报道，万峰林推荐骑行路线为“徐霞客广场——将军峰——布依村寨”，租车价格约在40—60元/天。",
+  "duration_days": "1",
+  "stops": [
+    {
+      "order": 1,
+      "name": "徐霞客广场",
+      "related_id": "待核实",
+      "time_info": "待核实",
+      "note": "据潮新闻报道。"
+    },
+    {
+      "order": 2,
+      "name": "将军峰",
+      "related_id": "待核实",
+      "time_info": "待核实",
+      "note": "据潮新闻报道。"
+    },
+    {
+      "order": 3,
+      "name": "布依村寨",
+      "related_id": "待核实",
+      "time_info": "待核实",
+      "note": "据潮新闻报道。"
+    }
+  ],
+  "location": {
+    "address": "待核实",
+    "district": "兴义市"
+  },
+  "suitable_for": [
+    "骑行",
+    "摄影",
+    "亲子"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "租车约40—60元/天（据潮新闻2024-10-19报道）",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "租车价格为潮新闻 2024-10-19 报道中的参考区间，采集于 2026-10-16，实际以商家当日报价为准。",
+    "price_verified_at": "2024-10-19"
+  },
+  "notes": [
+    "骑行线路为推荐性质，具体道路与距离未找到来源。"
+  ],
+  "tags": [
+    "骑行",
+    "万峰林",
+    "徐霞客广场",
+    "将军峰"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0063"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "线路节点来自单一媒体报道（潮新闻），租车价格为参考区间且未标注具体商家，标记为待核实。"
+}

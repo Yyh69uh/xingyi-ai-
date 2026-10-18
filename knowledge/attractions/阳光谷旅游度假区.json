@@ -1,0 +1,51 @@
+{
+  "id": "attraction-yangguanggu",
+  "name": "阳光谷旅游度假区",
+  "aliases": [],
+  "category": "主题景区",
+  "description": "据人民网报道，阳光谷旅游度假区内建有花园、阁楼、广场、红枫林大道等多个景点，还有阳光梦幻王国、酒店、酒楼等业态，是集观光游览、主题娱乐、餐饮购物于一体的度假区。据搜狐文章，其内的贵州醇景区2016年对外开放，2018年获批国家AAAA级景区。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市（阳光谷旅游度假区）",
+    "district": "兴义市",
+    "transport_hint": "待核实"
+  },
+  "suitable_for": [
+    "亲子",
+    "摄影"
+  ],
+  "time_info": {
+    "opening_hours": "待核实",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "未找到可追溯的带日期价格来源，标记为待核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "度假区与贵州醇景区为包含关系，二者常被合并提及。"
+  ],
+  "tags": [
+    "阳光谷",
+    "度假区",
+    "红枫林",
+    "贵州醇",
+    "兴义"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-OFFICIAL-0013",
+    "SRC-NEWS-0011"
+  ],
+  "source_types": [
+    "景区资料",
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "业态描述有人民网与景区官网两来源；票务与开放时间未取得可靠来源，标记为待核实。"
+}

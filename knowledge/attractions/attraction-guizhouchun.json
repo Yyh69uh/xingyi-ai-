@@ -1,0 +1,53 @@
+{
+  "id": "attraction-guizhouchun",
+  "name": "贵州醇景区（奇香园）",
+  "aliases": [
+    "贵州醇景区",
+    "奇香园"
+  ],
+  "category": "主题景区",
+  "description": "坐落于兴义市区内，是国家4A级风景名胜区，核心规划区域2407亩，获“全国工业旅游示范点”称号。景区拥有樱花园、梅花园、民族文化美食园、奇香楼、风雨桥等，被称为“兴义人的后花园”。",
+  "location": {
+    "address": "贵州省黔西南布依族苗族自治州兴义市区内（贵州醇景区）",
+    "district": "兴义市",
+    "transport_hint": "待核实"
+  },
+  "suitable_for": [
+    "亲子",
+    "摄影"
+  ],
+  "time_info": {
+    "opening_hours": "待核实（来源冲突：百度百科记淡季08:00—18:30、旺季07:00—19:30；meet99记08:30—17:00）",
+    "best_season": "待核实",
+    "suggested_duration": "待核实",
+    "closed_days": "待核实"
+  },
+  "price_info": {
+    "ticket": "待核实（来源冲突：百度百科称2020年1月1日起执行门票收费制度但未给金额；meet99称免费）",
+    "discount": "待核实",
+    "currency": "CNY",
+    "price_note": "来源互相矛盾，未自行采信任一方，需以景区官方公告核实。",
+    "price_verified_at": "待核实"
+  },
+  "notes": [
+    "景区电话（据meet99）：0859-8943608。"
+  ],
+  "tags": [
+    "贵州醇",
+    "奇香园",
+    "兴义",
+    "4A级",
+    "工业旅游"
+  ],
+  "media": [],
+  "source_ids": [
+    "SRC-WEB-0004",
+    "SRC-WEB-0064"
+  ],
+  "source_types": [
+    "网络公开资料"
+  ],
+  "collected_at": "2026-10-16",
+  "data_status": "待核实",
+  "review_notes": "来源冲突：开放时间与门票制度在不同来源间不一致（百度百科 vs meet99），未自行采信任一方。"
+}
