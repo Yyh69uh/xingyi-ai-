@@ -1,0 +1,20 @@
+# 兴义文旅 AI 导游 —— Render 云端部署蓝图
+# 用法：Render 控制台 -> New + -> Blueprint -> 选择本仓库 -> 部署
+# 说明：ZHIPU_API_KEY 不写入代码库（.env 已被 .gitignore 排除），
+#       部署时由 Render 提示手动填入，密钥只保存在云端环境变量中。
+services:
+  - type: web
+    name: xingyi-ai-guide
+    runtime: python
+    plan: free
+    region: singapore          # 新加坡节点，中国大陆访问延迟相对最低
+    branch: master
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/health
+    autoDeploy: true           # 推送到 GitHub 自动重新部署
+    envVars:
+      - key: ZHIPU_API_KEY
+        sync: false            # 部署时手动填写，不落库
+      - key: PYTHON_VERSION
+        value: "3.11.9"

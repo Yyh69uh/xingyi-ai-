@@ -227,4 +227,6 @@ def index():
 if __name__ == "__main__":
     import uvicorn
 
-    uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=False, log_level="info")
+    # 本地运行固定 8000 端口；云端平台（Render 等）会注入 PORT 环境变量，需优先采用
+    port = int(os.getenv("PORT", "8000"))
+    uvicorn.run("main:app", host="0.0.0.0", port=port, reload=False, log_level="info")

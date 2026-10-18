@@ -1,0 +1,27 @@
+# 保活任务：Render 免费实例闲置 15 分钟会休眠，导致首次访问需冷启动等待。
+# 本工作流每 10 分钟访问一次健康检查接口，让实例保持唤醒状态。
+#
+# 线上地址来源优先级：
+#   1) 仓库变量 APP_URL（Settings -> Secrets and variables -> Actions -> Variables）
+#   2) 下方默认地址（对应 render.yaml 中的服务名 name）
+name: 保活 - 定时访问线上服务
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # 每 10 分钟一次
+  workflow_dispatch:          # 支持手动触发
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 访问健康检查接口
+        run: |
+          URL="${{ vars.APP_URL }}"
+          if [ -z "$URL" ]; then
+            URL="https://xingyi-ai-guide.onrender.com"
+          fi
+          echo "目标地址：$URL/api/health"
+          curl -sS -m 120 --retry 2 "$URL/api/health"
+          echo ""
+          echo "保活请求已发送"
